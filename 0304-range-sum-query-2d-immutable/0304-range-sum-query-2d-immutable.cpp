@@ -3,6 +3,7 @@ public:
     int n, m;
     vector<vector<int>> pref;
     NumMatrix(vector<vector<int>>& matrix) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         n = matrix.size();
         m = matrix[0].size();
         pref.assign(n+1, vector<int>(m+1, 0));
