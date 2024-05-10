@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> kthSmallestPrimeFraction(vector<int>& arr, int k) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         vector<pair<double, pair<int, int>>> v;
         int n = arr.size();
         vector<int> ans(2);
