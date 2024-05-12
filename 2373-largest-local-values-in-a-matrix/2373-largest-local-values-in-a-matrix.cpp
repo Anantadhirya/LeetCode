@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> largestLocal(vector<vector<int>>& grid) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = grid.size();
         vector<vector<int>> ans(n-2, vector<int>(n-2, 0));
         for(int i = 0; i < n-2; i++) {
