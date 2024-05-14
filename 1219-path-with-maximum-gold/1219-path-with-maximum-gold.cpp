@@ -14,6 +14,7 @@ public:
         vis[i][j] = 0;
     }
     int getMaximumGold(vector<vector<int>>& grid) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = grid.size(), m = grid[0].size();
         int ans = 0, tmp = 0;
         vector<vector<bool>> vis(n, vector<bool>(m, 0));
