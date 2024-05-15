@@ -3,6 +3,7 @@ const int dy[] = {0, 0, 1, -1};
 class Solution {
 public:
     int maximumSafenessFactor(vector<vector<int>>& grid) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = grid.size();
         queue<pair<int, int>> q;
         priority_queue<pair<int, pair<int, int>>> pq;
