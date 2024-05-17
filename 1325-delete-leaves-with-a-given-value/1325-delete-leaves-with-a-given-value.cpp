@@ -29,6 +29,7 @@ public:
         }
     }
     TreeNode* removeLeafNodes(TreeNode* root, int target) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         solve(root, target);
         return root->val == -1 ? NULL : root;
     }
