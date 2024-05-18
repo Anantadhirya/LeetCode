@@ -23,6 +23,7 @@ public:
         coin += curr_coin;
     }
     int distributeCoins(TreeNode* root) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int cnt = -1, coin = -1, ans = 0;
         solve(root, cnt, coin, ans);
         return ans;
