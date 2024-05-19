@@ -23,6 +23,7 @@ public:
         }
     }
     long long maximumValueSum(vector<int>& nums, int k, vector<vector<int>>& edges) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = nums.size();
         vector<vector<int>> adj(n);
         vector<vector<long long>> dp(n, vector<long long>(2, -1));
