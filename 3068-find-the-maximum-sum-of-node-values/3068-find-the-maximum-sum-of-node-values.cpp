@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void dfs(int curr, int from, long long k, vector<int> &nums, vector<vector<int>> &adj, vector<vector<long long>> &dp) {
+    void dfs(int curr, int from, long long &k, vector<int> &nums, vector<vector<int>> &adj, vector<vector<long long>> &dp) {
         vector<long long> tmp;
         dp[curr][0] = 0;
         long long flip, noflip;
@@ -25,13 +25,14 @@ public:
     long long maximumValueSum(vector<int>& nums, int k, vector<vector<int>>& edges) {
         ios_base::sync_with_stdio(false); cin.tie(0);
         int n = nums.size();
+        long long x = k;
         vector<vector<int>> adj(n);
         vector<vector<long long>> dp(n, vector<long long>(2, -1));
         for(const auto &i: edges) {
             adj[i[0]].push_back(i[1]);
             adj[i[1]].push_back(i[0]);
         }
-        dfs(0, -1, (long long)k, nums, adj, dp);
+        dfs(0, -1, x, nums, adj, dp);
         return max(dp[0][0] + nums[0], dp[0][1] + ((long long)k^nums[0]));
     }
 };
