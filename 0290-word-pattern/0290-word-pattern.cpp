@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool wordPattern(string pattern, string s) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         vector<string> v;
         map<char, string> m;
         map<string, char> m2;
