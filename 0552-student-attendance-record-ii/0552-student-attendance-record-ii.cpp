@@ -1,6 +1,7 @@
 class Solution {
 public:
     int checkRecord(int n) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         const long long MOD = 1e9 + 7;
         vector<vector<vector<long long>>> dp(n+1, vector<vector<long long>>(2, vector<long long>(3, 0)));
         long long ans = 0;
