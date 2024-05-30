@@ -3,7 +3,7 @@ public:
     int countTriplets(vector<int>& arr) {
         ios_base::sync_with_stdio(false); cin.tie(0);
         int n = arr.size(), tmp, ans = 0;
-        unordered_map<int, int> cnt[n];
+        map<int, int> cnt[n];
         for(int i = 0; i < n; i++) {
             tmp = 0;
             for(int j = i; j >= 0; j--) {
