@@ -6,8 +6,8 @@ public:
         int ans = m;
         for(int i = 0, j = 0; j < m; j++) {
             while(i < n && s[i] != t[j]) i++;
-            if(i < n) ans--;
-            else break;
+            if(i == n) break;
+            ans--;
             i++;
         }
         return ans;
