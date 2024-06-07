@@ -1,6 +1,7 @@
 class Solution {
 public:
     string replaceWords(vector<string>& dictionary, string sentence) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         unordered_set<string> s(dictionary.begin(), dictionary.end());
         vector<string> split(1, "");
         string tmp, ans = "";
