@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minIncrementForUnique(vector<int>& nums) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         vector<int> cnt(2e5 + 5, 0);
         int ans = 0;
         for(const int &i: nums) {
