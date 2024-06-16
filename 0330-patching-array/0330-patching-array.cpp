@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minPatches(vector<int>& nums, int n) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         sort(nums.begin(), nums.end());
         int m = nums.size();
         int ans = 0;
