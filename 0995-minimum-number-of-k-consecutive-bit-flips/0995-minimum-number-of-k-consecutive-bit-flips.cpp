@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minKBitFlips(vector<int>& nums, int k) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         queue<int> q;
         int n = nums.size();
         int ans = 0;
