@@ -1,6 +1,7 @@
 class Solution {
 public:
     long long maximumImportance(int n, vector<vector<int>>& roads) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         vector<int> cnt(n, 0);
         vector<int> v;
         long long ans = 0;
