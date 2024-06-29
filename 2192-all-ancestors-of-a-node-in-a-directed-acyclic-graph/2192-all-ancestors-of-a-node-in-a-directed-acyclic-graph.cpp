@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> getAncestors(int n, vector<vector<int>>& edges) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         vector<vector<int>> ans(n), adj(n);
         vector<int> vis(n, -1);
         stack<int> s;
