@@ -5,6 +5,7 @@ public:
         return par[i] = fp(par[i], par);
     }
     int maxNumEdgesToRemove(int n, vector<vector<int>>& edges) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         vector<vector<int>> par(3, vector<int>(n));
         int u, v;
         int ans = 0;
