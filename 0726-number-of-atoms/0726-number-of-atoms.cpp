@@ -51,6 +51,7 @@ public:
         return ret;
     }
     string countOfAtoms(string formula) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         map<string, int> ans = solve(formula);
         string ret = "";
         for(auto &[s, i]: ans) {
