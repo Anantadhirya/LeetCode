@@ -22,6 +22,7 @@ public:
         }
     }
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         unordered_map<int, int> l, r;
         bitset<100005> child;
         TreeNode* root;
