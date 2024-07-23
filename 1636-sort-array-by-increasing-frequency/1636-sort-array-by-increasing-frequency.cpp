@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> frequencySort(vector<int>& nums) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         unordered_map<int, int> cnt;
         vector<pair<int, int>> v;
         vector<int> ret;
