@@ -1,6 +1,7 @@
 class Solution {
 public:
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         const int inf = INT_MAX;
         vector<vector<int>> dist(n, vector<int>(n, inf));
         for(const auto &i: edges) {
