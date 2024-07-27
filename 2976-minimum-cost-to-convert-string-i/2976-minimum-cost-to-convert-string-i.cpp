@@ -1,6 +1,7 @@
 class Solution {
 public:
     long long minimumCost(string source, string target, vector<char>& original, vector<char>& changed, vector<int>& cost) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         const int inf = INT_MAX;
         vector<vector<int>> dist(26, vector<int>(26, inf));
         int n = source.size(), m = original.size();
