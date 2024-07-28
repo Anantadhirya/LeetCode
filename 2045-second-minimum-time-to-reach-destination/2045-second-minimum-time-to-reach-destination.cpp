@@ -1,6 +1,7 @@
 class Solution {
 public:
     int secondMinimum(int n, vector<vector<int>>& edges, int time, int change) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         const int inf = INT_MAX;
         vector<int> dist(2*n, inf), vis(2*n, 0);
         priority_queue<pair<int, int>> pq;
