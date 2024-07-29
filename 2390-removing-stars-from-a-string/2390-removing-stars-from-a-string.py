@@ -4,5 +4,5 @@ class Solution:
         for i in s:
             if i == "*":
                 ans.pop()
-            else: ans += i
+            else: ans.append(i)
         return "".join(ans)
