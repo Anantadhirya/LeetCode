@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minHeightShelves(vector<vector<int>>& books, int shelfWidth) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = books.size();
         const int inf = INT_MAX;
         vector<int> dp(n+1, inf);
