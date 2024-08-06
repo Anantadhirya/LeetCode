@@ -9,7 +9,6 @@ class Solution:
             while tmp - nums[l] >= target:
                 tmp -= nums[l]
                 l += 1
-            print(l, r, tmp)
             if tmp >= target:
                 ans = min(ans, r-l+1)
         return ans if ans != inf else 0
