@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = board.size();
         bitset<9> bi[n], bj[n], bb[3][3];
         for(int i = 0, p; i < n; i++) {
