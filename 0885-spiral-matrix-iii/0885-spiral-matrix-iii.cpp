@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> spiralMatrixIII(int rows, int cols, int rStart, int cStart) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         vector<vector<int>> ans;
         int n = max(rows, cols);
         auto add = [&]() {
