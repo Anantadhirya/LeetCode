@@ -1,6 +1,7 @@
 class Solution {
 public:
     int numMagicSquaresInside(vector<vector<int>>& grid) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = grid.size();
         int m = grid[0].size();
         auto check = [&](int i, int j) {
