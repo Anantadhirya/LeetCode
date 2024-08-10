@@ -9,6 +9,7 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         const int inf = INT_MAX;
         while(head) {
             if(head->val == inf) return 1;
