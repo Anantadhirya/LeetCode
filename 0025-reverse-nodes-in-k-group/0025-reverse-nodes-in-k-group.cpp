@@ -11,6 +11,7 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         vector<int> v;
         while(head) {
             v.push_back(head->val);
