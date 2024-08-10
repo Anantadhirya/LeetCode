@@ -13,6 +13,7 @@ public:
         }
     }
     int regionsBySlashes(vector<string>& grid) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = grid.size();
         vector<vector<int>> v(3*n, vector<int>(3*n, 0));
         for(int i = 0; i < n; i++) {
