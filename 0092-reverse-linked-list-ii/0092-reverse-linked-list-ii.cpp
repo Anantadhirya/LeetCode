@@ -11,6 +11,7 @@
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         vector<ListNode*> v;
         for(ListNode *i = head; i; i = i->next) {
             v.push_back(i);
