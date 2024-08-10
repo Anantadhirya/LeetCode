@@ -4,7 +4,7 @@ public:
     map<long long, int> cnt;
     stack<long long> s;
     MinStack() {
-
+        ios_base::sync_with_stdio(false); cin.tie(0);
     }
     
     void push(int val) {
