@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> findSubstring(string s, vector<string>& words) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = s.size();
         int m = words[0].size();
         vector<string> v;
