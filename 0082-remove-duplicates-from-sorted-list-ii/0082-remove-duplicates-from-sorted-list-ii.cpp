@@ -11,6 +11,7 @@
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         map<int, int> cnt;
         for(ListNode *i = head; i; i = i->next) {
             cnt[i->val]++;
