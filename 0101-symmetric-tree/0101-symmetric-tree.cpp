@@ -20,6 +20,7 @@ public:
         return 1;
     }
     bool isSymmetric(TreeNode* root) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         if(!root) return 1;
         return solve(root->left, root->right);
     }
