@@ -21,7 +21,7 @@ public:
 
 class Solution {
 public:
-    void dfs(Node* node, map<int, Node*> &m) {
+    void dfs(Node* node, unordered_map<int, Node*> &m) {
         if(!node || m[node->val]) return;
         m[node->val] = new Node(node->val);
         for(const auto &i: node->neighbors) {
@@ -30,8 +30,9 @@ public:
         }
     }
     Node* cloneGraph(Node* node) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         if(!node) return NULL;
-        map<int, Node*> m;
+        unordered_map<int, Node*> m;
         dfs(node, m);
         return m[node->val];
     }
