@@ -27,6 +27,7 @@ public:
         solve(root->left, d+1, v);
     }
     Node* connect(Node* root) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         vector<Node*> v;
         solve(root, 0, v);
         return root;
