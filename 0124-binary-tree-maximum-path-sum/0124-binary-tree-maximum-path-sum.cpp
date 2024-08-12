@@ -12,6 +12,7 @@
 class Solution {
 public:
     int maxPathSum(TreeNode* root) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         if(!root) return -1e9;
         int ansl = maxPathSum(root->left);
         int ansr = maxPathSum(root->right);
