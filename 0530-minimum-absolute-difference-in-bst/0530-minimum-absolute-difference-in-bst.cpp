@@ -18,6 +18,7 @@ public:
         inorder(root->right, v);
     }
     int getMinimumDifference(TreeNode* root) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         vector<int> v;
         inorder(root, v);
         int ans = v[1] - v[0];
