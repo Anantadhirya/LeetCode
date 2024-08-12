@@ -12,6 +12,7 @@
 class Solution {
 public:
     void flatten(TreeNode* root, TreeNode* end = NULL) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         if(!root) return;
         if(!root->right) root->right = end;
         else flatten(root->right, end);
