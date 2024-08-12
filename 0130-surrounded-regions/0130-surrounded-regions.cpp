@@ -14,6 +14,7 @@ public:
         }
     }
     void solve(vector<vector<char>>& board) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = board.size();
         int m = board[0].size();
         for(int i = 0; i < n; i++) {
