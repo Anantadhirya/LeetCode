@@ -13,6 +13,7 @@ public:
         v.pop_back();
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         vector<vector<int>> ans;
         vector<int> v;
         map<vector<int>, bool> vis;
