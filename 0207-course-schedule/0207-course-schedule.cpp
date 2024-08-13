@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = numCourses;
         vector<int> cnt(n, 0);
         vector<vector<int>> adj(n);
