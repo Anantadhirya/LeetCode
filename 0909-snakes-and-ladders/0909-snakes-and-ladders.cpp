@@ -1,6 +1,7 @@
 class Solution {
 public:
     int snakesAndLadders(vector<vector<int>>& board) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = board.size();
         const int inf = INT_MAX;
         vector<int> v(n*n);
