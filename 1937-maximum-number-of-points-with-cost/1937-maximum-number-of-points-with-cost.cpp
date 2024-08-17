@@ -1,6 +1,7 @@
 class Solution {
 public:
     long long maxPoints(vector<vector<int>>& points) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = points.size(), m = points[0].size();
         vector<vector<long long>> dp(n, vector<long long>(m, 0));
         vector<vector<long long>> pref = dp, suff = dp;
