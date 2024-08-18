@@ -2,19 +2,18 @@ class Solution {
 public:
     int nthUglyNumber(int n) {
         ios_base::sync_with_stdio(false); cin.tie(0);
-        priority_queue<long long> pq;
-        unordered_map<long long, bool> vis;
-        pq.push(-1);
-        for(int cnt = 1; cnt < n; cnt++) {
-            while(vis[pq.top()]) pq.pop();
-            vis[pq.top()] = 1;
-            pq.push(pq.top()*2);
-            pq.push(pq.top()*3);
-            pq.push(pq.top()*5);
-            pq.pop();
+        vector<int> ans(n);
+        int a, b, c;
+        int aa, bb, cc;
+        a = b = c = 0;
+        ans[0] = 1;
+        for(int i = 1; i < n; i++) {
+            aa = ans[a]*2, bb = ans[b]*3, cc = ans[c]*5;
+            ans[i] = min(aa, min(bb, cc));
+            if(ans[i] == aa) a++;
+            if(ans[i] == bb) b++;
+            if(ans[i] == cc) c++;
         }
-        while(vis[pq.top()]) pq.pop();
-        vis[pq.top()] = 1;
-        return -pq.top();
+        return ans.back();
     }
 };
