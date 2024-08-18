@@ -1,6 +1,7 @@
 class Solution {
 public:
     int nthUglyNumber(int n) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         priority_queue<long long> pq;
         unordered_map<long long, bool> vis;
         pq.push(-1);
