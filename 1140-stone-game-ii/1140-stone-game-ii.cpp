@@ -1,6 +1,7 @@
 class Solution {
 public:
     int stoneGameII(vector<int>& piles) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         const int inf = INT_MIN;
         int n = piles.size();
         vector<vector<int>> dp(n+1, vector<int>(n+1, inf));
