@@ -5,6 +5,7 @@ public:
         return gcd(b%a, a);
     }
     string fractionAddition(string expression) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         string tmp = "";
         vector<pair<long long, long long>> v;
         expression.push_back('+');
