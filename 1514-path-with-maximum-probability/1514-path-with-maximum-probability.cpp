@@ -1,6 +1,7 @@
 class Solution {
 public:
     double maxProbability(int n, vector<vector<int>>& edges, vector<double>& succProb, int start_node, int end_node) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         const double inf = 1/0.0;
         vector<double> dp(n, -inf);
         vector<bool> vis(n, 0);
