@@ -15,6 +15,7 @@ public:
         }
     }
     int countSubIslands(vector<vector<int>>& grid1, vector<vector<int>>& grid2) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = grid2.size(), m = grid2[0].size();
         vector<vector<bool>> vis(n, vector<bool>(m, 0));
         bool valid;
