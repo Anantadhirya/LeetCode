@@ -23,6 +23,7 @@ public:
         return dist[destination];
     }
     vector<vector<int>> modifiedGraphEdges(int n, vector<vector<int>>& edges, int source, int destination, int target) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         const int inf = 2e9;
         vector<vector<pair<int, int>>> adj(n);
         int m = edges.size();
