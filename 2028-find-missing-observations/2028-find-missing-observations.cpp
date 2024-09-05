@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> missingRolls(vector<int>& rolls, int mean, int n) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int m = rolls.size();
         int x = mean * (m+n);
         vector<int> ans(n, 0);
