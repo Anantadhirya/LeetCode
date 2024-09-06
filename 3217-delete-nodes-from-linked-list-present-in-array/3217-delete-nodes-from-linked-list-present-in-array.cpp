@@ -10,20 +10,16 @@
  */
 class Solution {
 public:
+    ListNode* solve(ListNode* head, set<int> &s) {
+        if(!head) return head;
+        if(s.count(head->val)) {
+            return solve(head->next, s);
+        }
+        head->next = solve(head->next, s);
+        return head;
+    }
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
         set<int> s(nums.begin(), nums.end());
-        vector<int> v;
-        while(head) {
-            if(!s.count(head->val)) {
-                v.push_back(head->val);
-            }
-            head = head->next;
-        }
-        head = NULL;
-        while(!v.empty()) {
-            head = new ListNode(v.back(), head);
-            v.pop_back();
-        }
-        return head;
+        return solve(head, s);
     }
 };
