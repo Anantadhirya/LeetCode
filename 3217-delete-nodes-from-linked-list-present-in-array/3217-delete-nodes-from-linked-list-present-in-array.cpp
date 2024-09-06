@@ -19,6 +19,7 @@ public:
         return head;
     }
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         set<int> s(nums.begin(), nums.end());
         return solve(head, s);
     }
