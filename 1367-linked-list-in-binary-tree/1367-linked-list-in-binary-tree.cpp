@@ -22,6 +22,7 @@
 class Solution {
 public:
     bool solve(ListNode* head, TreeNode* root, bool started) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         if(!head) return 1;
         if(!root) return 0;
         if(root->val == head->val) {
