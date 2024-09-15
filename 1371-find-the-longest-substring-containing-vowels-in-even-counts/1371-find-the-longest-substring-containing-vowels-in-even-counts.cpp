@@ -1,6 +1,7 @@
 class Solution {
 public:
     int findTheLongestSubstring(string s) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         string vowels = "aiueo";
         vector<int> fi((1<<5), -1);
         int n = s.size(), ans = 0;
