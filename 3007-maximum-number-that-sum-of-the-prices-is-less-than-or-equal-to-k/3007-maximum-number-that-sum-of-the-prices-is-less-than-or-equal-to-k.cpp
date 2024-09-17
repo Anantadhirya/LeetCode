@@ -9,6 +9,7 @@ public:
         return ans;
     }
     long long findMaximumNumber(long long k, int x) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         long long l = 1, r = 1e15, mid, ans = 0;
         while(l <= r) {
             mid = (l+r)/2;
