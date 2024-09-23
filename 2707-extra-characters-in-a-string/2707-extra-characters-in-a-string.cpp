@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minExtraChar(string s, vector<string>& dictionary) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = s.size();
         vector<int> dp(n+1, 0);
         bool sama;
