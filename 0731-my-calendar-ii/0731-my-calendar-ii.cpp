@@ -2,7 +2,7 @@ class MyCalendarTwo {
 public:
     set<pair<int, int>> s, s2;
     MyCalendarTwo() {
-        
+        ios_base::sync_with_stdio(false); cin.tie(0);
     }
     
     bool book(int start, int end) {
