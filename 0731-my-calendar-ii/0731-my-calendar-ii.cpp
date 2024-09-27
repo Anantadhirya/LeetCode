@@ -6,7 +6,6 @@ public:
     }
     
     bool book(int start, int end) {
-        cout << "q " << start << " " << end << "\n";
         auto it2 = s2.lower_bound({start, 0});
         if(it2 != s2.end() && it2->first < end) return 0;
         if(it2 != s2.begin() && start < (--it2)->second) return 0;
