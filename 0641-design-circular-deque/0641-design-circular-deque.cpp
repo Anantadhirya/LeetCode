@@ -3,6 +3,7 @@ public:
     int n, cnt, l, r;
     vector<int> v;
     MyCircularDeque(int k) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         n = k;
         v.resize(n);
         cnt = 0;
