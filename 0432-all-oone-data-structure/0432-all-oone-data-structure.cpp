@@ -3,7 +3,7 @@ public:
     map<string, int> cnt;
     priority_queue<pair<int, string>> mx, mn;
     AllOne() {
-
+        ios_base::sync_with_stdio(false); cin.tie(0);
     }
 
     void update(string key) {
