@@ -4,6 +4,7 @@ public:
     int idx;
     vector<int> s, v;
     CustomStack(int maxSize) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         n = maxSize;
         idx = 0;
         s.resize(n);
