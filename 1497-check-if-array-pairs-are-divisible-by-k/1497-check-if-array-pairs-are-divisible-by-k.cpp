@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool canArrange(vector<int>& arr, int k) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         vector<int> cnt(k, 0);
         for(const auto &i: arr) {
             cnt[(i%k + k) % k]++;
