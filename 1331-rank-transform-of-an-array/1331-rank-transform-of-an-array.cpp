@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = arr.size();
         if(n == 0) return arr;
         vector<pair<int, int>> v(n);
