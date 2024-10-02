@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         map<int, int> rank;
         for(const auto &i: arr) {
             rank[i] = 0;
