@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minSubarray(vector<int>& nums, int p) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = nums.size();
         int sm = 0, pref = 0, x, ans = n;
         unordered_map<int, int> lst;
