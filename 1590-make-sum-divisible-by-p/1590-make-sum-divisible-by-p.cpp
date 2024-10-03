@@ -3,7 +3,7 @@ public:
     int minSubarray(vector<int>& nums, int p) {
         int n = nums.size();
         int sm = 0, pref = 0, x, ans = n;
-        map<int, int> lst;
+        unordered_map<int, int> lst;
         for(const auto &i: nums) {
             (sm += i) %= p;
         }
