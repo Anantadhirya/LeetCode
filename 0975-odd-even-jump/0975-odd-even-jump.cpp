@@ -1,6 +1,7 @@
 class Solution {
 public:
     int oddEvenJumps(vector<int>& arr) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = arr.size();
         vector<vector<int>> dp(n, vector<int>(2, 0));
         int ans = 0;
