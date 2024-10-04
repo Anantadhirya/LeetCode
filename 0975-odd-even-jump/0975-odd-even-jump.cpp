@@ -6,7 +6,7 @@ public:
         vector<vector<int>> dp(n, vector<int>(2, 0));
         int ans = 0;
         set<int> s;
-        map<int, int> lst;
+        unordered_map<int, int> lst;
         dp[n-1][0] = dp[n-1][1] = 1;
         for(int i = n-2; i >= 0; i--) {
             s.insert(arr[i+1]);
