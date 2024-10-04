@@ -1,6 +1,7 @@
 class Solution {
 public:
     long long dividePlayers(vector<int>& skill) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = skill.size();
         sort(skill.begin(), skill.end());
         int sm = skill[0] + skill.back();
