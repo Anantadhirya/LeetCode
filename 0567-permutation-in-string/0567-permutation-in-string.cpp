@@ -2,14 +2,14 @@ class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
         int n = s1.size(), m = s2.size();
-        unordered_map<char, int> cnt;
+        vector<int> cnt(26, 0);
         for(const auto &i: s1) {
-            cnt[i]++;
+            cnt[i-'a']++;
         }
         for(int l = 0, r = 0; r < m; r++) {
-            cnt[s2[r]]--;
-            while(cnt[s2[r]] < 0) {
-                cnt[s2[l++]]++;
+            cnt[s2[r]-'a']--;
+            while(cnt[s2[r]-'a'] < 0) {
+                cnt[s2[l++]-'a']++;
             }
             if(r-l+1 == n) return 1;
         }
