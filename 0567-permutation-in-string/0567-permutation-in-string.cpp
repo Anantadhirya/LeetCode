@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = s1.size(), m = s2.size();
         vector<int> cnt(26, 0);
         for(const auto &i: s1) {
