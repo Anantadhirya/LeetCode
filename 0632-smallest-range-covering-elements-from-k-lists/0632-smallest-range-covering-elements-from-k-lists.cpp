@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> smallestRange(vector<vector<int>>& nums) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int k = nums.size();
         set<pair<int, int>> s;
         pair<int, int> ans = {INT_MAX, 0};
