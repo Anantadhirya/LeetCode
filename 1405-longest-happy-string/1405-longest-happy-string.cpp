@@ -1,6 +1,7 @@
 class Solution {
 public:
     string longestDiverseString(int a, int b, int c) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         string ans = "", tmp = "  ";
         char add = ' ';
         int mx;
