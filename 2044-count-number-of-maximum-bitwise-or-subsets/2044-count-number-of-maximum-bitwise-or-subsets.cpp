@@ -1,6 +1,7 @@
 class Solution {
 public:
     int countMaxOrSubsets(vector<int>& nums) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = nums.size();
         int mx = 0, ans = 0, tmp;
         for(const int &i: nums) {
