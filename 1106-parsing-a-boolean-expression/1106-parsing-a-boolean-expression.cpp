@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool parseBoolExpr(string expression) {
+        ios_base::sync_with_stdio(false); cin.tie(0);           
         vector<vector<char>> v(1);
         string s;
         char tmp;
