@@ -19,6 +19,7 @@ public:
         solve(root->right, sm, level+1);
     }
     long long kthLargestLevelSum(TreeNode* root, int k) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         vector<long long> sm;
         solve(root, sm);
         sort(sm.begin(), sm.end());
