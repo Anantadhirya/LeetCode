@@ -31,6 +31,7 @@ public:
         }
     }
     TreeNode* replaceValueInTree(TreeNode* root) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         vector<int> sm(1e5, 0);
         dfs(root, sm, 0);
         root->val = 0;
