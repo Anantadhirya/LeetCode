@@ -36,6 +36,7 @@ public:
         }
     }
     vector<int> treeQueries(TreeNode* root, vector<int>& queries) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         dfs(root);
         ans.assign(n, h[root->val-1]);
         dfs2(root, -1);
