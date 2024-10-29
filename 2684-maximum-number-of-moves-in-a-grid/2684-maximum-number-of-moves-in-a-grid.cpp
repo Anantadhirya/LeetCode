@@ -1,6 +1,7 @@
 class Solution {
 public:
     int maxMoves(vector<vector<int>>& grid) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = grid.size(), m = grid[0].size();
         int ans = 0;
         vector<vector<int>> v(n, vector<int>(m, -1));
