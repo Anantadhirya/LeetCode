@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minimumMountainRemovals(vector<int>& nums) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = nums.size();
         vector<int> pref(n, 0), suff(n, 0);
         vector<int> v;
