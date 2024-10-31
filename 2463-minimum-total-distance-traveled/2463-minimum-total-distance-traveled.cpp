@@ -1,6 +1,7 @@
 class Solution {
 public:
     long long minimumTotalDistance(vector<int>& robot, vector<vector<int>>& factory) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         const long long inf = LLONG_MAX;
         int n = robot.size(), m = factory.size();
         vector<vector<long long>> dp(n+1, vector<long long>(m+1, inf));
