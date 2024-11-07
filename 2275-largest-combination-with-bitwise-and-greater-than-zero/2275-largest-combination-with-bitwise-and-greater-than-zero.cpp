@@ -1,6 +1,7 @@
 class Solution {
 public:
     int largestCombination(vector<int>& candidates) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int mx = 0;
         int tmp, ans = 0;
         for(const auto &i: candidates) {
