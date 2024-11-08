@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> getMaximumXor(vector<int>& nums, int maximumBit) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = nums.size();
         vector<int> ans(n);
         int tmp = 0, mx = (1<<maximumBit)-1;
