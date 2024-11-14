@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minimizedMaximum(int n, vector<int>& quantities) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int l = 1, r = *max_element(quantities.begin(), quantities.end()), mid, ans = -1, cnt;
         while(l <= r) {
             mid = (l+r)/2;
