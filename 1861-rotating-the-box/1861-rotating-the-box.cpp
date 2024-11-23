@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<vector<char>> rotateTheBox(vector<vector<char>>& box) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = box.size(), m = box[0].size();
         vector<vector<char>> ans(m, vector<char>(n));
         for(int i = 0; i < m; i++) {
