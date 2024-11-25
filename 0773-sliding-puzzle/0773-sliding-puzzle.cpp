@@ -3,6 +3,7 @@ public:
     int dx[4] = {1, -1, 0, 0};
     int dy[4] = {0, 0, 1, -1};
     int slidingPuzzle(vector<vector<int>>& board) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         map<vector<vector<int>>, int> dist;
         queue<vector<vector<int>>> q;
         vector<vector<int>> v = {{1, 2, 3}, {4, 5, 0}}, tmp;
