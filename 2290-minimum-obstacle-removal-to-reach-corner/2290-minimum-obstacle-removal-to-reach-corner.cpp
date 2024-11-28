@@ -4,6 +4,7 @@ public:
     int dx[4] = {1, -1, 0, 0};
     int dy[4] = {0, 0, 1, -1};
     int minimumObstacles(vector<vector<int>>& grid) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = grid.size(), m = grid[0].size();
         vector<vector<int>> dist(n, vector<int>(m, inf));
         vector<vector<bool>> vis(n, vector<bool>(m, 0));
