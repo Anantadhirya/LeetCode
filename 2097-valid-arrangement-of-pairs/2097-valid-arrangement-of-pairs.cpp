@@ -9,6 +9,7 @@ public:
         }
     }
     vector<vector<int>> validArrangement(vector<vector<int>>& pairs) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         unordered_map<int, vector<int>> adj;
         unordered_map<int, int> cnt;
         int start = pairs[0][0];
