@@ -17,6 +17,7 @@ public:
         }
     }
     vector<string> generateParenthesis(int n) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         vector<string> ans;
         string s;
         solve(n, 0, s, ans);
