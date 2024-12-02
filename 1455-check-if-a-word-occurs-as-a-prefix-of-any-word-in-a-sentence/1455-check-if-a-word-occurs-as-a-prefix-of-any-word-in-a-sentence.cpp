@@ -1,12 +1,12 @@
 class Solution {
 public:
     int isPrefixOfWord(string sentence, string searchWord) {
-        int idx = 1;
+        int idx = 1, j = 0, m = sentence.size();
         int i = 0, n = searchWord.size();
-        for(const char &c: sentence) {
-            if(c == ' ') i = 0, idx++;
+        for(; j < m; j++) {
+            if(sentence[j] == ' ') i = 0, idx++;
             else {
-                if(i != -1 && searchWord[i] == c) i++;
+                if(i != -1 && searchWord[i] == sentence[j]) i++;
                 else i = -1;
                 if(i == n) return idx;
             }
