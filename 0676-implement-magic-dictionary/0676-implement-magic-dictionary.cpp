@@ -1,14 +1,12 @@
 class MagicDictionary {
 public:
-    set<string> s;
+    unordered_set<string> s;
     MagicDictionary() {
-        
+        ios_base::sync_with_stdio(false); cin.tie(0);
     }
     
     void buildDict(vector<string> dictionary) {
-        for(const auto &i: dictionary) {
-            s.insert(i);
-        }
+        s = unordered_set<string>(dictionary.begin(), dictionary.end());
     }
     
     bool search(string searchWord) {
