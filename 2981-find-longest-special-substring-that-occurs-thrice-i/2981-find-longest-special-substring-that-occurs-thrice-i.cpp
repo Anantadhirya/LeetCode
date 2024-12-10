@@ -1,6 +1,7 @@
 class Solution {
 public:
     int maximumLength(string s) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int ans = -1, n = s.size();
         vector<vector<int>> v(26, vector<int>(3, -1));
         for(int i = 0, j = 0, c; i < n; i++) {
