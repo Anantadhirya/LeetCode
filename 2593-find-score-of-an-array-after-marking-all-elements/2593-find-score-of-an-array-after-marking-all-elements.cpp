@@ -1,6 +1,7 @@
 class Solution {
 public:
     long long findScore(vector<int>& nums) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         long long ans = 0;
         int n = nums.size();
         vector<pair<int, int>> v(n);
