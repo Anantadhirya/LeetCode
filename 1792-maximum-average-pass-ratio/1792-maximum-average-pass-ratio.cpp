@@ -1,6 +1,7 @@
 class Solution {
 public:
     double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         priority_queue<pair<double, int>> pq;
         int n = classes.size();
         double ans = 0;
