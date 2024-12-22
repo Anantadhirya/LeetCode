@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> leftmostBuildingQueries(vector<int>& heights, vector<vector<int>>& queries) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = heights.size(), m = queries.size();
         vector<int> ans(m);
         vector<pair<int, int>> v(n);
