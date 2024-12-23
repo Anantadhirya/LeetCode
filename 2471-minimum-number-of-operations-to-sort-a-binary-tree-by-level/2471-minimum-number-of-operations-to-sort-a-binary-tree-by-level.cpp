@@ -12,6 +12,7 @@
 class Solution {
 public:
     int minimumOperations(TreeNode* root) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n, ans = 0;
         queue<TreeNode*> q;
         vector<pair<int, int>> v;
