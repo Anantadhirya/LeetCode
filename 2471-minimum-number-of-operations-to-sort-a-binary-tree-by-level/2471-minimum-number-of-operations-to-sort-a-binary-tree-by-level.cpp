@@ -11,33 +11,27 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root, vector<vector<int>> &v, int level) {
-        if(!root) return;
-        if(level >= v.size()) v.push_back({});
-        v[level].push_back(root->val);
-        dfs(root->left, v, level+1);
-        dfs(root->right, v, level+1);
-    }
     int minimumOperations(TreeNode* root) {
-        ios_base::sync_with_stdio(false); cin.tie(0);
-        int n;
-        vector<vector<int>> v;
-        dfs(root, v, 0);
-        vector<int> v2;
-        unordered_map<int, int> pos;
-        int ans = 0;
-        for(auto &i: v) {
-            n = i.size();
-            for(int j = 0; j < n; j++) {
-                pos[i[j]] = j;
+        int n, ans = 0;
+        queue<TreeNode*> q;
+        vector<pair<int, int>> v;
+
+        q.push(root);
+        while(!q.empty()) {
+            n = q.size();
+            v.resize(n);
+            for(int i = 0; i < n; i++) {
+                root = q.front();
+                q.pop();
+
+                v[i] = {root->val, i};
+                if(root->left) q.push(root->left);
+                if(root->right) q.push(root->right);
             }
-            v2 = i;
-            sort(v2.begin(), v2.end());
-            for(int j = 0, k; j < n; j++) {
-                if(i[j] != v2[j]) {
-                    k = pos[v2[j]];
-                    swap(i[j], i[k]);
-                    swap(pos[i[j]], pos[i[k]]);
+            sort(v.begin(), v.end());
+            for(int i = 0; i < n; i++) {
+                while(v[i].second != i) {
+                    swap(v[i], v[v[i].second]);
                     ans++;
                 }
             }
