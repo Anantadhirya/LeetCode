@@ -19,6 +19,7 @@ public:
         dfs(root->right, v, level+1);
     }
     int minimumOperations(TreeNode* root) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n;
         vector<vector<int>> v;
         dfs(root, v, 0);
