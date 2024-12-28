@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> maxSumOfThreeSubarrays(vector<int>& nums, int k) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = nums.size();
         vector<int> pref(n+1, 0);
         vector<vector<pair<int, int>>> dp(n+5, vector<pair<int, int>>(4, {0, 0}));
