@@ -1,6 +1,7 @@
 class Solution {
 public:
     int numWays(vector<string>& words, string target) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         const int MOD = 1e9 + 7;
         int n = target.size(), m = words[0].size();
         vector<vector<int>> cnt(m, vector<int>(26, 0));
