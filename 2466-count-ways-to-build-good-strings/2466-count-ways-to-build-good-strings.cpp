@@ -1,6 +1,7 @@
 class Solution {
 public:
     int countGoodStrings(int low, int high, int zero, int one) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         const int MOD = 1e9 + 7;
         int ans = 0;
         vector<int> dp(high+1, 0);
