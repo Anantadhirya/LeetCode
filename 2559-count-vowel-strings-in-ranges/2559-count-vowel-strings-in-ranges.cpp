@@ -4,6 +4,7 @@ public:
         return c == 'a' || c == 'i' || c == 'u' || c == 'e' || c == 'o';
     }
     vector<int> vowelStrings(vector<string>& words, vector<vector<int>>& queries) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = words.size();
         vector<int> suff(n+1, 0);
         vector<int> ans(queries.size());
