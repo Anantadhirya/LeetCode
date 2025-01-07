@@ -15,6 +15,7 @@ public:
         return 0;
     }
     vector<string> stringMatching(vector<string>& words) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = words.size();
         vector<string> ans;
         for(int i = 0; i < n; i++) {
