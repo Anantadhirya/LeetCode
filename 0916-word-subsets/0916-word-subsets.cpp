@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<string> wordSubsets(vector<string>& words1, vector<string>& words2) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = words2.size();
         vector<int> cnt1, cnt2, mx(26, 0);
         vector<string> ans;
