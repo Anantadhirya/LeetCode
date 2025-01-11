@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool canConstruct(string s, int k) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         vector<int> cnt(26, 0);
         int c = 0;
         if(s.size() < k) return 0;
