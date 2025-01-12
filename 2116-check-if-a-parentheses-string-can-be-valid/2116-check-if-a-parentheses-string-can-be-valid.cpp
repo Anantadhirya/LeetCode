@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool canBeValid(string s, string locked) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = s.size();
         if(n&1) return 0;
         int open = 0;
