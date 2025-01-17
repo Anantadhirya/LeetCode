@@ -1,10 +1,11 @@
 class Solution {
 public:
     bool doesValidArrayExist(vector<int>& derived) {
-        int ans = 0;
+        ios_base::sync_with_stdio(false); cin.tie(0);
+        bool ans = 1;
         for(const int &i: derived) {
             ans ^= i;
         }
-        return ans == 0;
+        return ans;
     }
 };
