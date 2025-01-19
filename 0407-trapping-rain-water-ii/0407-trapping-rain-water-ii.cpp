@@ -4,6 +4,7 @@ int dy[] = {0, 0, 1, -1};
 class Solution {
 public:
     int trapRainWater(vector<vector<int>>& heights) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         priority_queue<pair<int, pair<int, int>>> pq;
         int n = heights.size(), m = heights[0].size();
         int ans = 0;
