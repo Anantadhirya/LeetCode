@@ -1,28 +1,25 @@
 class Solution {
 public:
+    void dfs(int curr, vector<vector<int>> &adj, vector<bool> &vis, vector<bool> &safe) {
+        vis[curr] = 1;
+        for(const int &to: adj[curr]) {
+            if(!vis[to]) dfs(to, adj, vis, safe);
+            if(!safe[to]) {
+                safe[curr] = 0;
+                return;
+            }
+        }
+        safe[curr] = 1;
+    }
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         ios_base::sync_with_stdio(false); cin.tie(0);
         int n = graph.size();
-        vector<int> cnt(n, 0);
-        vector<vector<int>> adj(n);
+        vector<bool> vis(n, 0), safe(n, 0);
         vector<int> ans;
-        queue<int> q;
         for(int i = 0; i < n; i++) {
-            for(const int &to: graph[i]) {
-                cnt[i]++;
-                adj[to].push_back(i);
-            }
-            if(cnt[i] == 0) q.push(i);
+            if(!vis[i]) dfs(i, graph, vis, safe);
+            if(safe[i]) ans.push_back(i);
         }
-        for(int i; !q.empty(); ) {
-            i = q.front();
-            q.pop();
-            ans.push_back(i);
-            for(const int &to: adj[i]) {
-                if(--cnt[to] == 0) q.push(to);
-            }
-        }
-        sort(ans.begin(), ans.end());
         return ans;
     }
 };
