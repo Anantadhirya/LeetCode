@@ -30,3 +30,5 @@ public:
         return max(one, two);
     }
 };
+
+static auto init() { ios_base::sync_with_stdio(false); cin.tie(0); }
