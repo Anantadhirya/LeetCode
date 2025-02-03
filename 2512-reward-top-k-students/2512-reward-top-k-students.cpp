@@ -1,3 +1,5 @@
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(0); return NULL; }();
+
 class Solution {
 public:
     vector<string> split(string s) {
