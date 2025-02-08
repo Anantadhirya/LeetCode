@@ -1,7 +1,9 @@
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(0); return NULL; }();
+
 class NumberContainers {
 public:
-    map<int, int> arr;
-    map<int, priority_queue<int>> pos;
+    unordered_map<int, int> arr;
+    unordered_map<int, priority_queue<int>> pos;
     NumberContainers() {
         
     }
