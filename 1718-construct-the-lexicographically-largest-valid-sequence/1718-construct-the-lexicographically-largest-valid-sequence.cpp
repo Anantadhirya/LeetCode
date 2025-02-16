@@ -6,8 +6,9 @@
 5 3 1 4 3 5 2 4 2
 6 4 2 5 2 4 6 3 5 2 3 2
 7 5 3 6 4 3 5 7 4 6 2 1 2
-8 6 4 2 . 2 4 6 8
 */
+
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(0); return nullptr; }();
 class Solution {
 public:
     bool solve(int idx, int &n, vector<int> &ans, vector<bool> &used) {
