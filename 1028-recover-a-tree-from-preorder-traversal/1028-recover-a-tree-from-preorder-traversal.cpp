@@ -9,29 +9,28 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(0); return NULL; }();
 class Solution {
 public:
     TreeNode* recoverFromPreorder(string traversal) {
-        vector<pair<int, int>> split(1, {0, 0});
         int n = traversal.size();
-        stack<pair<TreeNode*, int>> s;
-        for(int i = 0; i < n; i++) {
-            if(i > 0 && '0' <= traversal[i-1] && traversal[i-1] <= '9' && traversal[i] == '-') 
-                split.push_back({0, 0});
-            if(traversal[i] == '-') split.back().first++;
-            else split.back().second = 10*split.back().second + (traversal[i] - '0');
+        TreeNode* curr;
+        stack<TreeNode*> s;
+        for(int i = 0, level, val; i < n; ) {
+            level = val = 0;
+            while(traversal[i] == '-') level++, i++;
+            while(i < n && traversal[i] != '-') val = 10*val + (traversal[i]-'0'), i++;
+
+            while(s.size() > level) s.pop();
+            curr = new TreeNode(val);
+            if(!s.empty()) {
+                if(!s.top()->left) s.top()->left = curr;
+                else s.top()->right = curr;
+            }
+            s.push(curr);
         }
-        TreeNode *root = new TreeNode(split[0].second);
-        TreeNode *curr;
-        int m = split.size();
-        s.push({root, 0});
-        for(int i = 1; i < m; i++) {
-            curr = new TreeNode(split[i].second);
-            while(s.top().second >= split[i].first) s.pop();
-            if(!s.top().first->left) s.top().first->left = curr;
-            else s.top().first->right = curr;
-            s.push({curr, split[i].first});
-        }
-        return root;
+        while(s.size() > 1) s.pop();
+        return s.top();
     }
 };
