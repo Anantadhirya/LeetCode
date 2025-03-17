@@ -1,13 +1,11 @@
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(0); return nullptr; }();
+
 class Solution {
 public:
     int minDeletions(string s) {
-        vector<int> cnt(26, 0);
+        vector<int> v(26, 0);
         for(const auto &i: s) {
-            cnt[i-'a']++;
-        }
-        vector<int> v;
-        for(int i = 0; i < 26; i++) {
-            v.push_back(cnt[i]);
+            v[i-'a']++;
         }
         sort(v.begin(), v.end());
         int ans = 0;
