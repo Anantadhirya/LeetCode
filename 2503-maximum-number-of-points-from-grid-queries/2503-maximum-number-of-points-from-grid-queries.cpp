@@ -1,3 +1,5 @@
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(0); return nullptr; }();
+
 int dx[] = {1, -1, 0, 0};
 int dy[] = {0, 0, 1, -1};
 
