@@ -1,13 +1,15 @@
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(0); return nullptr; }();
+
 class Solution {
 public:
     long long pangkat(long long a, long long b, long long MOD) {
         if(b == 0) return 1;
         return (b&1 ? a : 1) * pangkat(a*a%MOD, b>>1, MOD) % MOD;
     }
-    vector<int> sieve() {
-        const int MX = 1e5;
+    vector<int> sieve(int MX) {
+        const int SZ = 1e5 + 5;
         vector<int> primes;
-        bitset<MX+1> composite;
+        bitset<SZ> composite;
         for(int i = 2; i <= MX; i++) {
             if(composite[i]) continue;
             primes.push_back(i);
@@ -19,7 +21,7 @@ public:
     int maximumScore(vector<int>& nums, int k) {
         const long long MOD = 1e9 + 7;
         int n = nums.size();
-        vector<int> primes = sieve();
+        vector<int> primes = sieve(sqrt(*max_element(nums.begin(), nums.end())) + 5);
         vector<int> ps(n, 0);
         for(int i = 0, tmp; i < n; i++) {
             tmp = nums[i];
