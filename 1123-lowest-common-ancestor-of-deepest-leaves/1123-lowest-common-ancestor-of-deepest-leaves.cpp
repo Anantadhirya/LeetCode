@@ -11,32 +11,17 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* curr, unordered_map<int, int> &d) {
-        d[curr->val] = 0;
-        if(curr->left) {
-            dfs(curr->left, d);
-            d[curr->val] = max(d[curr->val], d[curr->left->val] + 1);
+    pair<TreeNode*, int> dfs(TreeNode* curr) {
+        if(!curr) {
+            return {curr, 0};
         }
-        if(curr->right) {
-            dfs(curr->right, d);
-            d[curr->val] = max(d[curr->val], d[curr->right->val] + 1);
-        }
+        auto l = dfs(curr->left);
+        auto r = dfs(curr->right);
+        if(l.second == r.second) return {curr, l.second+1};
+        else if(l.second > r.second) return {l.first, l.second+1};
+        else return {r.first, r.second+1};
     }
     TreeNode* lcaDeepestLeaves(TreeNode* root) {
-        unordered_map<int, int> d;
-        dfs(root, d);
-        int dl, dr;
-        while(root->left || root->right) {
-            if(!root->left) root = root->right;
-            else if(!root->right) root = root->left;
-            else {
-                dl = d[root->left->val];
-                dr = d[root->right->val];
-                if(dl == dr) break;
-                else if(dl > dr) root = root->left;
-                else root = root->right;
-            }
-        }
-        return root;
+        return dfs(root).first;
     }
 };
