@@ -7,13 +7,12 @@ public:
         }
         if(sm&1) return 0;
         sm /= 2;
-        vector<bool> dp(sm+1, 0);
+        bitset<10001> dp;
         dp[0] = 1;
         for(const int &i: nums) {
-            for(int j = sm; j >= i; j--) {
-                if(dp[j-i]) dp[j] = 1;
-            }
+            dp |= dp << i;
+            if(dp[sm]) return 1;
         }
-        return dp[sm];
+        return 0;
     }
 };
