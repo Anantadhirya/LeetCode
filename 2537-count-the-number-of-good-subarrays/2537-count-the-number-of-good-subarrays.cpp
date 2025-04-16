@@ -5,13 +5,9 @@ public:
         long long ans = 0, tmp = 0;
         unordered_map<int, long long> cnt;
         for(int l = 0, r = 0; r < n; r++) {
-            tmp -= cnt[nums[r]] * (cnt[nums[r]] - 1) / 2;
-            cnt[nums[r]]++;
-            tmp += cnt[nums[r]] * (cnt[nums[r]] - 1) / 2;
+            tmp += cnt[nums[r]]++;
             while(tmp >= k) {
-                tmp -= cnt[nums[l]] * (cnt[nums[l]] - 1) / 2;
-                cnt[nums[l]]--;
-                tmp += cnt[nums[l]] * (cnt[nums[l]] - 1) / 2;
+                tmp -= --cnt[nums[l]];
                 l++;
             }
             ans += l;
