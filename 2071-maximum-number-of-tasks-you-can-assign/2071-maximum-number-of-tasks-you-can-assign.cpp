@@ -1,15 +1,16 @@
 class Solution {
 public:
     int n, m;
-    deque<int> dq;
+    vector<int> dq;
+    int front, back;
     bool check(vector<int> &tasks, vector<int> &workers, int pills, int &strength, int &k) {
-        dq.clear();
+        front = back = 0;
         for(int i = k-1, j = m-1; i >= 0; i--) {
-            while(j >= m-k && tasks[i] <= workers[j] + strength) dq.push_front(workers[j--]);
-            if(dq.empty()) return 0;
-            if(tasks[i] <= dq.back()) dq.pop_back();
+            while(j >= m-k && tasks[i] <= workers[j] + strength) dq[back++] = (workers[j--]);
+            if(front == back) return 0;
+            if(tasks[i] <= dq[front]) front++;
             else {
-                if(pills > 0) dq.pop_front(), pills--;
+                if(pills > 0) back--, pills--;
                 else return 0;
             }
         }
@@ -19,6 +20,7 @@ public:
     int maxTaskAssign(vector<int>& tasks, vector<int>& workers, int pills, int strength) {
         n = tasks.size();
         m = workers.size();
+        dq.resize(m);
         sort(tasks.begin(), tasks.end());
         sort(workers.begin(), workers.end());
 
