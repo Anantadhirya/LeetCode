@@ -5,7 +5,7 @@ public:
         int k = words[0].size();
         vector<pair<int, int>> dp(n);
         string tmp;
-        map<string, vector<pair<int, int>>> m[10];
+        unordered_map<string, vector<pair<int, int>>> m[10];
         vector<int> id;
         vector<string> ans;
         for(int i = 0; i < n; i++) {
