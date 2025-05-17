@@ -1,7 +1,11 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        ios_base::sync_with_stdio(false); cin.tie(0);
-        sort(nums.begin(), nums.end());
+        int n = nums.size();
+        for(int i = 0, j = 0; i < n; ) {
+            if(nums[i] == 0) swap(nums[i], nums[j++]), i++;
+            else if(nums[i] == 2) n--, swap(nums[i], nums[n]);
+            else i++;
+        }
     }
 };
