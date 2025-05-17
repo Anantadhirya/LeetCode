@@ -9,6 +9,8 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(0); return nullptr; }();
 class Solution {
 public:
     void solve(TreeNode* &curr, int l, int r, vector<int> &nums) {
