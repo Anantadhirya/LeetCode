@@ -1,6 +1,7 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         int n = matrix.size();
         int m = matrix[0].size();
         vector<int> r(n, 0), c(m, 0);
