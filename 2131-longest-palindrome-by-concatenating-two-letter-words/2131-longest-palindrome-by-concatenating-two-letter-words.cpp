@@ -2,18 +2,19 @@ class Solution {
 public:
     int longestPalindrome(vector<string>& words) {
         int ans = 0;
-        string tmp;
-        map<string, int> cnt;
-        sort(words.begin(), words.end());
+        int tmp, inv;
+        vector<int> cnt(26*26, 0);
         for(const string &i: words) {
-            tmp = string(1, i[1]) + i[0];
-            if(cnt[tmp] > 0) {
+            tmp = (i[0]-'a')*26 + (i[1]-'a');
+            inv = (i[1]-'a')*26 + (i[0]-'a');
+            if(cnt[inv] > 0) {
                 ans += 4;
-                cnt[tmp]--;
-            } else cnt[i]++;
+                cnt[inv]--;
+            } else cnt[tmp]++;
         }
-        for(const auto &[i, c]: cnt) {
-            if(c > 0 && i[0] == i[1]) {
+        for(int i = 0; i < 26; i++) {
+            tmp = i*26 + i;
+            if(cnt[tmp] > 0) {
                 ans += 2;
                 break;
             }
