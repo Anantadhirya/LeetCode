@@ -1,3 +1,5 @@
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(0); return nullptr; }();
+
 class Solution {
 public:
     const int MOD = 1e9 + 7;
@@ -7,12 +9,12 @@ public:
     }
     int countGoodArrays(int n, int m, int k) {
         // C(n-1, k) * m * (m-1)^(n-1-k)
-        int ans = (long long)m * pangkat(m-1, n-1-k) % MOD, div = 1;
+        long long ans = (long long)m * pangkat(m-1, n-1-k) % MOD, div = 1;
         for(int i = 0; i < k; i++) {
-            ans = (long long)ans * (n-1 - i) % MOD;
-            div = (long long)div * (k - i) % MOD;
+            ans = ans * (n-1 - i) % MOD;
+            div = div * (k - i) % MOD;
         }
-        ans = (long long)ans * pangkat(div, MOD-2) % MOD;
+        ans = ans * pangkat(div, MOD-2) % MOD;
         return ans;
     }
 };
