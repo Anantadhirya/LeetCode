@@ -1,3 +1,5 @@
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(0); return nullptr; }();
+
 class Solution {
 public:
     void dfs(int curr, int from, vector<int> &nums, vector<vector<int>> &adj, int &t, vector<int> &tin, vector<int> &tout) {
