@@ -1,14 +1,16 @@
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(0); return nullptr; }();
+
 class Solution {
 public:
     const int inf = INT_MAX;
-    void setup(int si, int sl, int sr, vector<int> &st, vector<pair<int,int>> &v) {
+    void build(int si, int sl, int sr, vector<int> &st, vector<pair<int,int>> &v) {
         if(sl == sr) {
             st[si] = v[sl].second;
             return;
         }
         int sm = (sl+sr)/2;
-        setup(2*si+1, sl, sm, st, v);
-        setup(2*si+2, sm+1, sr, st, v);
+        build(2*si+1, sl, sm, st, v);
+        build(2*si+2, sm+1, sr, st, v);
         st[si] = min(st[2*si+1], st[2*si+2]);
     }
     int query(int x, int si, int sl, int sr, vector<int> &st, vector<pair<int, int>> &v) {
@@ -39,7 +41,7 @@ public:
         for(int i = 0; i < n; i++) {
             idx[v[i].second] = i;
         }
-        setup(0, 0, n-1, st, v);
+        build(0, 0, n-1, st, v);
         for(const int &i: fruits) {
             q = query(i, 0, 0, n-1, st, v);
             if(q == inf) ans++;
