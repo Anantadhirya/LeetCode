@@ -1,10 +1,12 @@
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(0); return nullptr; }();
+
 class Solution {
 public:
     long long minOperations(vector<vector<int>>& queries) {
         long long ans = 0, tmp;
         for(const auto &i: queries) {
             tmp = 0;
-            for(int j = 1; j <= i[1]; j *= 4) {
+            for(int j = 1; j <= i[1]; j <<= 2) {
                 tmp += i[1] - max(i[0]-1, j-1);
             }
             ans += (tmp+1)/2;
