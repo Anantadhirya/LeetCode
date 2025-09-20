@@ -1,9 +1,11 @@
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(0); return nullptr; }();
+
 class Router {
 public:
     int n;
     queue<array<int, 3>> q;
     set<array<int, 3>> s;
-    map<int, deque<int>> m;
+    unordered_map<int, deque<int>> m;
     Router(int memoryLimit) {
         n = memoryLimit;
     }
