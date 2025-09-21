@@ -1,8 +1,10 @@
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(0); return nullptr; }();
+
 class MovieRentingSystem {
 public:
     map<pair<int, int>, bool> av;
     map<pair<int, int>, int> pr;
-    map<int, priority_queue<pair<int, int>>> unrented;
+    unordered_map<int, priority_queue<pair<int, int>>> unrented;
     priority_queue<pair<int, pair<int, int>>> rented;
     MovieRentingSystem(int n, vector<vector<int>>& entries) {
         for(const auto &i: entries) {
