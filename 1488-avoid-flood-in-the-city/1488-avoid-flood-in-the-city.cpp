@@ -1,9 +1,11 @@
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(0); return nullptr; }();
+
 class Solution {
 public:
     vector<int> avoidFlood(vector<int>& rains) {
         int n = rains.size();
-        map<int, queue<int>> nxt;
-        map<int, bool> full;
+        unordered_map<int, queue<int>> nxt;
+        unordered_map<int, bool> full;
         priority_queue<pair<int, int>> pq;
         vector<int> ans(n, -1);
         for(int i = 0; i < n; i++) {
