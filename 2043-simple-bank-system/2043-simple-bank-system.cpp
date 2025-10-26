@@ -1,3 +1,4 @@
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(NULL); return nullptr; }();
 class Bank {
 public:
     vector<long long> v;
