@@ -1,3 +1,5 @@
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(0); return nullptr; }();
+
 class Solution {
 public:
     vector<long long> findXSum(vector<int>& nums, int k, int x) {
