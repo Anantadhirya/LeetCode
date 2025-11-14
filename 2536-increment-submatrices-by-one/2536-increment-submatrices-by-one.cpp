@@ -1,3 +1,5 @@
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(0); return nullptr; }();
+
 class Solution {
 public:
     vector<vector<int>> rangeAddQueries(int n, vector<vector<int>>& queries) {
