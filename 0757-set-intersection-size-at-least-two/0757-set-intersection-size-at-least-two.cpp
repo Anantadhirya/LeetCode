@@ -14,8 +14,6 @@ public:
                 if(ans.size() >= 2 && ans.back() < ans[ans.size()-2]) swap(ans[ans.size()-2], ans.back());
             }
         }
-        for(auto i: ans) cout << i << " ";
-        cout << "\n";
         return (int)ans.size();
     }
 };
