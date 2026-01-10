@@ -1,3 +1,5 @@
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(NULL); return nullptr; }();
+
 class Solution {
 public:
     int minimumDeleteSum(string s1, string s2) {
