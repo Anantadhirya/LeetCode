@@ -1,3 +1,5 @@
+const auto init = []() { ios_base::sync_with_stdio(false); cin.tie(0); return nullptr; }();
+
 class Solution {
 public:
     int maximizeSquareArea(int m, int n, vector<int>& hFences, vector<int>& vFences) {
@@ -6,7 +8,7 @@ public:
         int h = hFences.size(), v = vFences.size();
         int ans = -1;
         const int MOD = 1e9 + 7;
-        set<int> s;
+        unordered_set<int> s;
         sort(hFences.begin(), hFences.end());
         sort(vFences.begin(), vFences.end());
         for(int i = 0; i < h; i++) {
