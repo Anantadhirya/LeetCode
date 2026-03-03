@@ -27,4 +27,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1145-binary-tree-coloring-game](https://github.com/Anantadhirya/LeetCode/tree/main/1145-binary-tree-coloring-game/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1145-binary-tree-coloring-game](https://github.com/Anantadhirya/LeetCode/tree/main/1145-binary-tree-coloring-game/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1145-binary-tree-coloring-game](https://github.com/Anantadhirya/LeetCode/tree/main/1145-binary-tree-coloring-game/) | Medium |
 <!---LeetCode Topics End-->
