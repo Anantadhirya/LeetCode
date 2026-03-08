@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Anantadhirya/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1980-find-unique-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3809-best-reachable-tower](https://github.com/Anantadhirya/LeetCode/tree/main/3809-best-reachable-tower/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Anantadhirya/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Anantadhirya/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2663-lexicographically-smallest-beautiful-string](https://github.com/Anantadhirya/LeetCode/tree/main/2663-lexicographically-smallest-beautiful-string/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -55,4 +57,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Anantadhirya/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
