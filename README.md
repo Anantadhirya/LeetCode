@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Anantadhirya/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [2745-construct-the-longest-new-string](https://github.com/Anantadhirya/LeetCode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anantadhirya/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3618-split-array-by-prime-indices](https://github.com/Anantadhirya/LeetCode/tree/main/3618-split-array-by-prime-indices/) | Medium |
@@ -119,4 +120,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2745-construct-the-longest-new-string](https://github.com/Anantadhirya/LeetCode/tree/main/2745-construct-the-longest-new-string/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Anantadhirya/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Anantadhirya/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
