@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Anantadhirya/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anantadhirya/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3618-split-array-by-prime-indices](https://github.com/Anantadhirya/LeetCode/tree/main/3618-split-array-by-prime-indices/) | Medium |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Anantadhirya/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/Anantadhirya/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Anantadhirya/LeetCode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anantadhirya/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3618-split-array-by-prime-indices](https://github.com/Anantadhirya/LeetCode/tree/main/3618-split-array-by-prime-indices/) | Medium |
@@ -89,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Anantadhirya/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Bit Manipulation
@@ -115,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anantadhirya/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -128,4 +133,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/Anantadhirya/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
