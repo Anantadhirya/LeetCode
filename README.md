@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Anantadhirya/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3618-split-array-by-prime-indices](https://github.com/Anantadhirya/LeetCode/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anantadhirya/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Anantadhirya/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anantadhirya/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3809-best-reachable-tower](https://github.com/Anantadhirya/LeetCode/tree/main/3809-best-reachable-tower/) | Medium |
 ## Greedy
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2075-decode-the-slanted-ciphertext](https://github.com/Anantadhirya/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/Anantadhirya/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anantadhirya/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Anantadhirya/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,4 +234,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Anantadhirya/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 <!---LeetCode Topics End-->
