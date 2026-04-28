@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/Anantadhirya/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1470-shuffle-the-array](https://github.com/Anantadhirya/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Anantadhirya/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
