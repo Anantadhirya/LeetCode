@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anantadhirya/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anantadhirya/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Anantadhirya/LeetCode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anantadhirya/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Anantadhirya/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anantadhirya/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Anantadhirya/LeetCode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/Anantadhirya/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anantadhirya/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/Anantadhirya/LeetCode/tree/main/2947-count-beautiful-substrings-i/) | Medium |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Anantadhirya/LeetCode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Anantadhirya/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
