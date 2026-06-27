@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2906-construct-product-matrix](https://github.com/Anantadhirya/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Anantadhirya/LeetCode/tree/main/2934-minimum-operations-to-maximize-last-elements-in-arrays/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anantadhirya/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anantadhirya/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anantadhirya/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anantadhirya/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Anantadhirya/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/Anantadhirya/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anantadhirya/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/Anantadhirya/LeetCode/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anantadhirya/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anantadhirya/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Anantadhirya/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Anantadhirya/LeetCode/tree/main/2934-minimum-operations-to-maximize-last-elements-in-arrays/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/Anantadhirya/LeetCode/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anantadhirya/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Anantadhirya/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
