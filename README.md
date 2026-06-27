@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/Anantadhirya/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anantadhirya/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Anantadhirya/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
+| [1872-stone-game-viii](https://github.com/Anantadhirya/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Anantadhirya/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/Anantadhirya/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anantadhirya/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/Anantadhirya/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/Anantadhirya/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Anantadhirya/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Anantadhirya/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Anantadhirya/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/Anantadhirya/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1840-maximum-building-height](https://github.com/Anantadhirya/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
+| [1872-stone-game-viii](https://github.com/Anantadhirya/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anantadhirya/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2525-categorize-box-according-to-criteria](https://github.com/Anantadhirya/LeetCode/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
@@ -350,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Anantadhirya/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Anantadhirya/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Anantadhirya/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/Anantadhirya/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Anantadhirya/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Anantadhirya/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
@@ -543,4 +547,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Anantadhirya/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/Anantadhirya/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 <!---LeetCode Topics End-->
