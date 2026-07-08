@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anantadhirya/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Anantadhirya/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/Anantadhirya/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
+| [3207-maximum-points-after-enemy-battles](https://github.com/Anantadhirya/LeetCode/tree/main/3207-maximum-points-after-enemy-battles/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Anantadhirya/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anantadhirya/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2592-maximize-greatness-of-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2663-lexicographically-smallest-beautiful-string](https://github.com/Anantadhirya/LeetCode/tree/main/2663-lexicographically-smallest-beautiful-string/) | Hard |
 | [2745-construct-the-longest-new-string](https://github.com/Anantadhirya/LeetCode/tree/main/2745-construct-the-longest-new-string/) | Medium |
+| [3207-maximum-points-after-enemy-battles](https://github.com/Anantadhirya/LeetCode/tree/main/3207-maximum-points-after-enemy-battles/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anantadhirya/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Anantadhirya/LeetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Anantadhirya/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
