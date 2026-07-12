@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/Anantadhirya/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anantadhirya/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anantadhirya/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Anantadhirya/LeetCode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anantadhirya/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Anantadhirya/LeetCode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anantadhirya/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Anantadhirya/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anantadhirya/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Anantadhirya/LeetCode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Anantadhirya/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2592-maximize-greatness-of-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2663-lexicographically-smallest-beautiful-string](https://github.com/Anantadhirya/LeetCode/tree/main/2663-lexicographically-smallest-beautiful-string/) | Hard |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Anantadhirya/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Anantadhirya/LeetCode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anantadhirya/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Anantadhirya/LeetCode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
@@ -559,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Anantadhirya/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Anantadhirya/LeetCode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Anantadhirya/LeetCode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Anantadhirya/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
