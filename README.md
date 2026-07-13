@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anantadhirya/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Anantadhirya/LeetCode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Anantadhirya/LeetCode/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2451-odd-string-difference](https://github.com/Anantadhirya/LeetCode/tree/main/2451-odd-string-difference/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anantadhirya/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Anantadhirya/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anantadhirya/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Anantadhirya/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Anantadhirya/LeetCode/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2451-odd-string-difference](https://github.com/Anantadhirya/LeetCode/tree/main/2451-odd-string-difference/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anantadhirya/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anantadhirya/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Anantadhirya/LeetCode/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anantadhirya/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -506,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anantadhirya/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Anantadhirya/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anantadhirya/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Anantadhirya/LeetCode/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Anantadhirya/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2592-maximize-greatness-of-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2751-robot-collisions](https://github.com/Anantadhirya/LeetCode/tree/main/2751-robot-collisions/) | Hard |
@@ -571,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Anantadhirya/LeetCode/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Anantadhirya/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Anantadhirya/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -630,4 +635,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/Anantadhirya/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Anantadhirya/LeetCode/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Anantadhirya/LeetCode/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 <!---LeetCode Topics End-->
