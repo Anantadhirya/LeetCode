@@ -399,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Anantadhirya/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anantadhirya/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/Anantadhirya/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Anantadhirya/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3618-split-array-by-prime-indices](https://github.com/Anantadhirya/LeetCode/tree/main/3618-split-array-by-prime-indices/) | Medium |
@@ -563,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Anantadhirya/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Anantadhirya/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3536-maximum-product-of-two-digits](https://github.com/Anantadhirya/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Anantadhirya/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anantadhirya/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
