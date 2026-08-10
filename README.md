@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Anantadhirya/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Anantadhirya/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/Anantadhirya/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anantadhirya/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/Anantadhirya/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Anantadhirya/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anantadhirya/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/Anantadhirya/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1622-fancy-sequence](https://github.com/Anantadhirya/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1840-maximum-building-height](https://github.com/Anantadhirya/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
@@ -744,6 +746,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Anantadhirya/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Anantadhirya/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/Anantadhirya/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -779,8 +782,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
