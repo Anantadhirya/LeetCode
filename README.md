@@ -428,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Anantadhirya/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0991-broken-calculator](https://github.com/Anantadhirya/LeetCode/tree/main/0991-broken-calculator/) | Medium |
 | [1140-stone-game-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Anantadhirya/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anantadhirya/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/Anantadhirya/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anantadhirya/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Anantadhirya/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Anantadhirya/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anantadhirya/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Anantadhirya/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -656,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Anantadhirya/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Anantadhirya/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Anantadhirya/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anantadhirya/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Anantadhirya/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anantadhirya/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -809,4 +812,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Anantadhirya/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 <!---LeetCode Topics End-->
