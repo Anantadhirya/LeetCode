@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2451-odd-string-difference](https://github.com/Anantadhirya/LeetCode/tree/main/2451-odd-string-difference/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anantadhirya/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Anantadhirya/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Anantadhirya/LeetCode/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anantadhirya/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Anantadhirya/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -685,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anantadhirya/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Anantadhirya/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anantadhirya/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Anantadhirya/LeetCode/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
 | [2540-minimum-common-value](https://github.com/Anantadhirya/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2592-maximize-greatness-of-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anantadhirya/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
