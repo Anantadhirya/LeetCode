@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anantadhirya/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anantadhirya/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Anantadhirya/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anantadhirya/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/Anantadhirya/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3207-maximum-points-after-enemy-battles](https://github.com/Anantadhirya/LeetCode/tree/main/3207-maximum-points-after-enemy-battles/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Anantadhirya/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -458,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anantadhirya/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Anantadhirya/LeetCode/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anantadhirya/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anantadhirya/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anantadhirya/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anantadhirya/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anantadhirya/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anantadhirya/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Anantadhirya/LeetCode/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anantadhirya/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anantadhirya/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anantadhirya/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -526,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Anantadhirya/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anantadhirya/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/Anantadhirya/LeetCode/tree/main/2836-maximize-value-of-function-in-a-ball-passing-game/) | Hard |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anantadhirya/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anantadhirya/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -542,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anantadhirya/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Anantadhirya/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anantadhirya/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/Anantadhirya/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anantadhirya/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anantadhirya/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -807,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anantadhirya/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anantadhirya/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Monotonic Stack
