@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/Anantadhirya/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anantadhirya/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Anantadhirya/LeetCode/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Anantadhirya/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Anantadhirya/LeetCode/tree/main/3695-maximize-alternating-sum-using-swaps/) | Hard |
