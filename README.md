@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/Anantadhirya/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anantadhirya/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anantadhirya/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Anantadhirya/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Anantadhirya/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anantadhirya/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anantadhirya/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anantadhirya/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2029-stone-game-ix](https://github.com/Anantadhirya/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anantadhirya/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Anantadhirya/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Anantadhirya/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anantadhirya/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Anantadhirya/LeetCode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
