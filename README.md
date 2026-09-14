@@ -478,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Anantadhirya/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Anantadhirya/LeetCode/tree/main/0788-rotated-digits/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Anantadhirya/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Anantadhirya/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0878-nth-magical-number](https://github.com/Anantadhirya/LeetCode/tree/main/0878-nth-magical-number/) | Hard |
 | [0991-broken-calculator](https://github.com/Anantadhirya/LeetCode/tree/main/0991-broken-calculator/) | Medium |
@@ -800,6 +801,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Anantadhirya/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Anantadhirya/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
