@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Anantadhirya/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anantadhirya/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/Anantadhirya/LeetCode/tree/main/1630-arithmetic-subarrays/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anantadhirya/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anantadhirya/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Anantadhirya/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Anantadhirya/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Anantadhirya/LeetCode/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anantadhirya/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anantadhirya/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1871-jump-game-vii](https://github.com/Anantadhirya/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Anantadhirya/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anantadhirya/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -442,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anantadhirya/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1630-arithmetic-subarrays](https://github.com/Anantadhirya/LeetCode/tree/main/1630-arithmetic-subarrays/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anantadhirya/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Anantadhirya/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -569,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anantadhirya/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anantadhirya/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Anantadhirya/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Anantadhirya/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Anantadhirya/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
@@ -617,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0878-nth-magical-number](https://github.com/Anantadhirya/LeetCode/tree/main/0878-nth-magical-number/) | Hard |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Anantadhirya/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anantadhirya/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anantadhirya/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Anantadhirya/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Anantadhirya/LeetCode/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
