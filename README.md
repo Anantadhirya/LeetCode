@@ -318,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Anantadhirya/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Anantadhirya/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3913-sort-vowels-by-frequency](https://github.com/Anantadhirya/LeetCode/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -770,6 +771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Anantadhirya/LeetCode/tree/main/3695-maximize-alternating-sum-using-swaps/) | Hard |
 | [3731-find-missing-elements](https://github.com/Anantadhirya/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3913-sort-vowels-by-frequency](https://github.com/Anantadhirya/LeetCode/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -841,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anantadhirya/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Anantadhirya/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3913-sort-vowels-by-frequency](https://github.com/Anantadhirya/LeetCode/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
