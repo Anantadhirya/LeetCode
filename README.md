@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0764-largest-plus-sign](https://github.com/Anantadhirya/LeetCode/tree/main/0764-largest-plus-sign/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Anantadhirya/LeetCode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
+| [0809-expressive-words](https://github.com/Anantadhirya/LeetCode/tree/main/0809-expressive-words/) | Medium |
 | [0835-image-overlap](https://github.com/Anantadhirya/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Anantadhirya/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/Anantadhirya/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0306-additive-number](https://github.com/Anantadhirya/LeetCode/tree/main/0306-additive-number/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Anantadhirya/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Anantadhirya/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [0809-expressive-words](https://github.com/Anantadhirya/LeetCode/tree/main/0809-expressive-words/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Anantadhirya/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Anantadhirya/LeetCode/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
@@ -795,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Anantadhirya/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0809-expressive-words](https://github.com/Anantadhirya/LeetCode/tree/main/0809-expressive-words/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Anantadhirya/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Anantadhirya/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anantadhirya/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
