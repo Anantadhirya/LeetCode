@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Anantadhirya/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0306-additive-number](https://github.com/Anantadhirya/LeetCode/tree/main/0306-additive-number/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Anantadhirya/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Anantadhirya/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0377-combination-sum-iv](https://github.com/Anantadhirya/LeetCode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0396-rotate-function](https://github.com/Anantadhirya/LeetCode/tree/main/0396-rotate-function/) | Medium |
@@ -826,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0844-backspace-string-compare](https://github.com/Anantadhirya/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anantadhirya/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -996,6 +999,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anantadhirya/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anantadhirya/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
