@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anantadhirya/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Anantadhirya/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anantadhirya/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anantadhirya/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0307-range-sum-query-mutable](https://github.com/Anantadhirya/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
@@ -540,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Anantadhirya/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anantadhirya/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0396-rotate-function](https://github.com/Anantadhirya/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Anantadhirya/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -854,6 +856,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anantadhirya/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Anantadhirya/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Anantadhirya/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
