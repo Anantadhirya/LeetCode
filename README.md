@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/Anantadhirya/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Anantadhirya/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/Anantadhirya/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1314-matrix-block-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Anantadhirya/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/Anantadhirya/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Anantadhirya/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1314-matrix-block-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -615,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1314-matrix-block-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anantadhirya/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anantadhirya/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Anantadhirya/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
