@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Anantadhirya/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Anantadhirya/LeetCode/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anantadhirya/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Anantadhirya/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -741,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Anantadhirya/LeetCode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [1046-last-stone-weight](https://github.com/Anantadhirya/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Anantadhirya/LeetCode/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Anantadhirya/LeetCode/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
