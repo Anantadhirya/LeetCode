@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/Anantadhirya/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0306-additive-number](https://github.com/Anantadhirya/LeetCode/tree/main/0306-additive-number/) | Medium |
+| [0482-license-key-formatting](https://github.com/Anantadhirya/LeetCode/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/Anantadhirya/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Anantadhirya/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Anantadhirya/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
