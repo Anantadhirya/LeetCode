@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/Anantadhirya/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anantadhirya/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Anantadhirya/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anantadhirya/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anantadhirya/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Anantadhirya/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Anantadhirya/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/Anantadhirya/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Anantadhirya/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Anantadhirya/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anantadhirya/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -1070,4 +1072,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anantadhirya/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Anantadhirya/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
