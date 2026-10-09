@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Anantadhirya/LeetCode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0809-expressive-words](https://github.com/Anantadhirya/LeetCode/tree/main/0809-expressive-words/) | Medium |
 | [0835-image-overlap](https://github.com/Anantadhirya/LeetCode/tree/main/0835-image-overlap/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Anantadhirya/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Anantadhirya/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/Anantadhirya/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -715,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anantadhirya/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Anantadhirya/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Anantadhirya/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0878-nth-magical-number](https://github.com/Anantadhirya/LeetCode/tree/main/0878-nth-magical-number/) | Hard |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Anantadhirya/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -1165,4 +1167,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Anantadhirya/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
