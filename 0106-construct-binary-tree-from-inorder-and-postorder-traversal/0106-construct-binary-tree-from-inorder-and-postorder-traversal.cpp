@@ -21,6 +21,7 @@ public:
         return ret;
     }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
+        ios_base::sync_with_stdio(false); cin.tie(0);
         map<int, int> pos;
         int n = inorder.size();
         for(int i = 0; i < n; i++) {
