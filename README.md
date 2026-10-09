@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Anantadhirya/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anantadhirya/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anantadhirya/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anantadhirya/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anantadhirya/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Anantadhirya/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1446-consecutive-characters](https://github.com/Anantadhirya/LeetCode/tree/main/1446-consecutive-characters/) | Easy |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Anantadhirya/LeetCode/tree/main/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anantadhirya/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anantadhirya/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -917,6 +919,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anantadhirya/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Anantadhirya/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anantadhirya/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anantadhirya/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anantadhirya/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Anantadhirya/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -1101,6 +1104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anantadhirya/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anantadhirya/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anantadhirya/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anantadhirya/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Bubble Sort
