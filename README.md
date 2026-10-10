@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Anantadhirya/LeetCode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Anantadhirya/LeetCode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0396-rotate-function](https://github.com/Anantadhirya/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0436-find-right-interval](https://github.com/Anantadhirya/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Anantadhirya/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Anantadhirya/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
@@ -737,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anantadhirya/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Anantadhirya/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0436-find-right-interval](https://github.com/Anantadhirya/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0493-reverse-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/Anantadhirya/LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -844,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Anantadhirya/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/Anantadhirya/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0436-find-right-interval](https://github.com/Anantadhirya/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Anantadhirya/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/0912-sort-an-array/) | Medium |
