@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Anantadhirya/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0214-shortest-palindrome](https://github.com/Anantadhirya/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0306-additive-number](https://github.com/Anantadhirya/LeetCode/tree/main/0306-additive-number/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Anantadhirya/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -953,6 +954,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Anantadhirya/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/Anantadhirya/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/Anantadhirya/LeetCode/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/Anantadhirya/LeetCode/tree/main/0796-rotate-string/) | Easy |
@@ -1200,11 +1202,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Anantadhirya/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/Anantadhirya/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/Anantadhirya/LeetCode/tree/main/0686-repeated-string-match/) | Medium |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Anantadhirya/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/Anantadhirya/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/Anantadhirya/LeetCode/tree/main/0686-repeated-string-match/) | Medium |
 ## Boyer–Moore String-Search Algorithm
@@ -1239,4 +1243,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anantadhirya/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Anantadhirya/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Anantadhirya/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Anantadhirya/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
