@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/Anantadhirya/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Anantadhirya/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anantadhirya/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/Anantadhirya/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Anantadhirya/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1446-consecutive-characters](https://github.com/Anantadhirya/LeetCode/tree/main/1446-consecutive-characters/) | Easy |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Anantadhirya/LeetCode/tree/main/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | Medium |
@@ -958,6 +959,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0459-repeated-substring-pattern](https://github.com/Anantadhirya/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/Anantadhirya/LeetCode/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/Anantadhirya/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/Anantadhirya/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Anantadhirya/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -1205,12 +1207,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/Anantadhirya/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/Anantadhirya/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/Anantadhirya/LeetCode/tree/main/0686-repeated-string-match/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/Anantadhirya/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Anantadhirya/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/Anantadhirya/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/Anantadhirya/LeetCode/tree/main/0686-repeated-string-match/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/Anantadhirya/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1247,10 +1251,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Anantadhirya/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/Anantadhirya/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Anantadhirya/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/Anantadhirya/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
