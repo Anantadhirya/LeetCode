@@ -600,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0077-combinations](https://github.com/Anantadhirya/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0306-additive-number](https://github.com/Anantadhirya/LeetCode/tree/main/0306-additive-number/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
