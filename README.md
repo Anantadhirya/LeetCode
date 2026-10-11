@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Anantadhirya/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/Anantadhirya/LeetCode/tree/main/0932-beautiful-array/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/Anantadhirya/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1019-next-greater-node-in-linked-list](https://github.com/Anantadhirya/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Anantadhirya/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/Anantadhirya/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
@@ -545,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Anantadhirya/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0645-set-mismatch](https://github.com/Anantadhirya/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Anantadhirya/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/Anantadhirya/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Anantadhirya/LeetCode/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Anantadhirya/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -628,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Anantadhirya/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0878-nth-magical-number](https://github.com/Anantadhirya/LeetCode/tree/main/0878-nth-magical-number/) | Hard |
 | [0932-beautiful-array](https://github.com/Anantadhirya/LeetCode/tree/main/0932-beautiful-array/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/Anantadhirya/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0991-broken-calculator](https://github.com/Anantadhirya/LeetCode/tree/main/0991-broken-calculator/) | Medium |
 | [1140-stone-game-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Anantadhirya/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
@@ -686,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/Anantadhirya/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anantadhirya/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Anantadhirya/LeetCode/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anantadhirya/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -788,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anantadhirya/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/Anantadhirya/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Anantadhirya/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -1283,4 +1288,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Anantadhirya/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/Anantadhirya/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 <!---LeetCode Topics End-->
