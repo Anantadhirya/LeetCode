@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/Anantadhirya/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0436-find-right-interval](https://github.com/Anantadhirya/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Anantadhirya/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Anantadhirya/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
@@ -606,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Anantadhirya/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anantadhirya/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0396-rotate-function](https://github.com/Anantadhirya/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Anantadhirya/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Anantadhirya/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -851,6 +853,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0147-insertion-sort-list](https://github.com/Anantadhirya/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0436-find-right-interval](https://github.com/Anantadhirya/LeetCode/tree/main/0436-find-right-interval/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Anantadhirya/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/0912-sort-an-array/) | Medium |
