@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/Anantadhirya/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0306-additive-number](https://github.com/Anantadhirya/LeetCode/tree/main/0306-additive-number/) | Medium |
+| [0394-decode-string](https://github.com/Anantadhirya/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Anantadhirya/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/Anantadhirya/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0481-magical-string](https://github.com/Anantadhirya/LeetCode/tree/main/0481-magical-string/) | Medium |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Anantadhirya/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Anantadhirya/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/Anantadhirya/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/Anantadhirya/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -973,6 +975,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Anantadhirya/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anantadhirya/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Anantadhirya/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0394-decode-string](https://github.com/Anantadhirya/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/Anantadhirya/LeetCode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Anantadhirya/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/Anantadhirya/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
