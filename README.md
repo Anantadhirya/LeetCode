@@ -443,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Anantadhirya/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Anantadhirya/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1145-binary-tree-coloring-game](https://github.com/Anantadhirya/LeetCode/tree/main/1145-binary-tree-coloring-game/) | Medium |
 | [1306-jump-game-iii](https://github.com/Anantadhirya/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
@@ -615,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/Anantadhirya/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0306-additive-number](https://github.com/Anantadhirya/LeetCode/tree/main/0306-additive-number/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/Anantadhirya/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Anantadhirya/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -817,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Anantadhirya/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Anantadhirya/LeetCode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anantadhirya/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Anantadhirya/LeetCode/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
@@ -1069,6 +1072,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0797-all-paths-from-source-to-target](https://github.com/Anantadhirya/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Anantadhirya/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/Anantadhirya/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
@@ -1311,5 +1315,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Anantadhirya/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Anantadhirya/LeetCode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 <!---LeetCode Topics End-->
