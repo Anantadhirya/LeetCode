@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0764-largest-plus-sign](https://github.com/Anantadhirya/LeetCode/tree/main/0764-largest-plus-sign/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Anantadhirya/LeetCode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0809-expressive-words](https://github.com/Anantadhirya/LeetCode/tree/main/0809-expressive-words/) | Medium |
+| [0815-bus-routes](https://github.com/Anantadhirya/LeetCode/tree/main/0815-bus-routes/) | Hard |
 | [0835-image-overlap](https://github.com/Anantadhirya/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anantadhirya/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Anantadhirya/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -556,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Anantadhirya/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0645-set-mismatch](https://github.com/Anantadhirya/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [0815-bus-routes](https://github.com/Anantadhirya/LeetCode/tree/main/0815-bus-routes/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/Anantadhirya/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Anantadhirya/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Anantadhirya/LeetCode/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
@@ -1084,6 +1086,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0301-remove-invalid-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0463-island-perimeter](https://github.com/Anantadhirya/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Anantadhirya/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0815-bus-routes](https://github.com/Anantadhirya/LeetCode/tree/main/0815-bus-routes/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Anantadhirya/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Anantadhirya/LeetCode/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
