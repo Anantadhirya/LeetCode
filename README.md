@@ -443,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anantadhirya/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Anantadhirya/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anantadhirya/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Anantadhirya/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1145-binary-tree-coloring-game](https://github.com/Anantadhirya/LeetCode/tree/main/1145-binary-tree-coloring-game/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anantadhirya/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Anantadhirya/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
@@ -477,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anantadhirya/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Anantadhirya/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anantadhirya/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Anantadhirya/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1145-binary-tree-coloring-game](https://github.com/Anantadhirya/LeetCode/tree/main/1145-binary-tree-coloring-game/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anantadhirya/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Anantadhirya/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
@@ -1378,4 +1380,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anantadhirya/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Anantadhirya/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
