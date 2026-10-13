@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/range-sum-query-mutable">307. Range Sum Query - Mutable</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, handle multiple queries of the following types:</p>
+<h2><a href="https://leetcode.com/problems/range-sum-query-mutable/description/?envType=problem-list-v2&envId=dsa-tree-shaped-deep-forest-segment-tree">307. Range Sum Query - Mutable</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, handle multiple queries of the following types:</p>
 
 <ol>
 	<li><strong>Update</strong> the value of an element in <code>nums</code>.</li>
