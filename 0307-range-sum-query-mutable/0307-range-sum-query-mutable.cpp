@@ -1,45 +1,39 @@
 const int NN = 3e4 + 5;
+int N;
+int st[4*NN];
+
+void st_update(int i, int x, int sl = 0, int sr = N-1, int si = 0) {
+	if(sl == sr) {
+		st[si] = x;
+		return;
+	}
+	int sm = (sl+sr)/2;
+	if(i <= sm) st_update(i, x, sl, sm, 2*si+1);
+	else st_update(i, x, sm+1, sr, 2*si+2);
+	st[si] = st[2*si+1] + st[2*si+2];
+}
+int st_query(int l, int r, int sl = 0, int sr = N-1, int si = 0) {
+	if(sr < l || r < sl) return 0;
+	if(l <= sl && sr <= r) return st[si];
+	int sm = (sl+sr)/2;
+	return st_query(l, r, sl, sm, 2*si+1) + st_query(l, r, sm+1, sr, 2*si+2);
+}
+
 class NumArray {
 public:
-    int st[4*NN];
-    int N;
-    void st_build(vector<int> &nums, int si, int sl, int sr) {
-        if(sl == sr) {
-            st[si] = nums[sl];
-            return;
-        }
-        int sm = (sl+sr)/2;
-        st_build(nums, 2*si+1, sl, sm);
-        st_build(nums, 2*si+2, sm+1, sr);
-        st[si] = st[2*si+1] + st[2*si+2];
-    }
-    void st_update(int i, int x, int si, int sl, int sr) {
-        if(sl == sr) {
-            st[si] = x;
-            return;
-        }
-        int sm = (sl+sr)/2;
-        if(i <= sm) st_update(i, x, 2*si+1, sl, sm);
-        else st_update(i, x, 2*si+2, sm+1, sr);
-        st[si] = st[2*si+1] + st[2*si+2];
-    }
-    int st_query(int l, int r, int si, int sl, int sr) {
-        if(sr < l || r < sl) return 0;
-        if(l <= sl && sr <= r) return st[si];
-        int sm = (sl+sr)/2;
-        return st_query(l, r, 2*si+1, sl, sm) + st_query(l, r, 2*si+2, sm+1, sr);
-    }
     NumArray(vector<int>& nums) {
         N = nums.size();
-        st_build(nums, 0, 0, N-1);
+        for(int i = 0; i < N; i++) {
+            update(i, nums[i]);
+        }
     }
     
     void update(int index, int val) {
-        st_update(index, val, 0, 0, N-1);
+        st_update(index, val);
     }
     
     int sumRange(int left, int right) {
-        return st_query(left, right, 0, 0, N-1);
+        return st_query(left, right);
     }
 };
 
