@@ -1112,6 +1112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Anantadhirya/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Anantadhirya/LeetCode/tree/main/0440-k-th-smallest-in-lexicographical-order/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/Anantadhirya/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anantadhirya/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anantadhirya/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
