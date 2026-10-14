@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0636-exclusive-time-of-functions](https://github.com/Anantadhirya/LeetCode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/Anantadhirya/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/Anantadhirya/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [0720-longest-word-in-dictionary](https://github.com/Anantadhirya/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0731-my-calendar-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Anantadhirya/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0764-largest-plus-sign](https://github.com/Anantadhirya/LeetCode/tree/main/0764-largest-plus-sign/) | Medium |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/Anantadhirya/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Anantadhirya/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/Anantadhirya/LeetCode/tree/main/0686-repeated-string-match/) | Medium |
+| [0720-longest-word-in-dictionary](https://github.com/Anantadhirya/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0796-rotate-string](https://github.com/Anantadhirya/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0809-expressive-words](https://github.com/Anantadhirya/LeetCode/tree/main/0809-expressive-words/) | Medium |
 | [0831-masking-personal-information](https://github.com/Anantadhirya/LeetCode/tree/main/0831-masking-personal-information/) | Medium |
@@ -575,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Anantadhirya/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0645-set-mismatch](https://github.com/Anantadhirya/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [0720-longest-word-in-dictionary](https://github.com/Anantadhirya/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0815-bus-routes](https://github.com/Anantadhirya/LeetCode/tree/main/0815-bus-routes/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/Anantadhirya/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Anantadhirya/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
@@ -937,6 +940,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Anantadhirya/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [0720-longest-word-in-dictionary](https://github.com/Anantadhirya/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0912-sort-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1200-minimum-absolute-difference](https://github.com/Anantadhirya/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -1108,6 +1112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Anantadhirya/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0720-longest-word-in-dictionary](https://github.com/Anantadhirya/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anantadhirya/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anantadhirya/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Anantadhirya/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
