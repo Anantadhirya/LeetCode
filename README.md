@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Anantadhirya/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anantadhirya/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Anantadhirya/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0135-candy](https://github.com/Anantadhirya/LeetCode/tree/main/0135-candy/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anantadhirya/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anantadhirya/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Anantadhirya/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0135-candy](https://github.com/Anantadhirya/LeetCode/tree/main/0135-candy/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Anantadhirya/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/Anantadhirya/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anantadhirya/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
