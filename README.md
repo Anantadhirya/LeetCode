@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1314-matrix-block-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Anantadhirya/LeetCode/tree/main/1340-jump-game-v/) | Hard |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anantadhirya/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1345-jump-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Anantadhirya/LeetCode/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anantadhirya/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -583,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Anantadhirya/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Anantadhirya/LeetCode/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anantadhirya/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anantadhirya/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anantadhirya/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
