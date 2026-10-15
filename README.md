@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-next-greater-node-in-linked-list](https://github.com/Anantadhirya/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Anantadhirya/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/Anantadhirya/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
+| [1052-grumpy-bookstore-owner](https://github.com/Anantadhirya/LeetCode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1140-stone-game-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Anantadhirya/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -584,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Anantadhirya/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Anantadhirya/LeetCode/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
+| [1052-grumpy-bookstore-owner](https://github.com/Anantadhirya/LeetCode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anantadhirya/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anantadhirya/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
