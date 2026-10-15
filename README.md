@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anantadhirya/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Anantadhirya/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anantadhirya/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1705-maximum-number-of-eaten-apples](https://github.com/Anantadhirya/LeetCode/tree/main/1705-maximum-number-of-eaten-apples/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Anantadhirya/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anantadhirya/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Anantadhirya/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anantadhirya/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anantadhirya/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1705-maximum-number-of-eaten-apples](https://github.com/Anantadhirya/LeetCode/tree/main/1705-maximum-number-of-eaten-apples/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Anantadhirya/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Anantadhirya/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anantadhirya/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -926,6 +928,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/Anantadhirya/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Anantadhirya/LeetCode/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1705-maximum-number-of-eaten-apples](https://github.com/Anantadhirya/LeetCode/tree/main/1705-maximum-number-of-eaten-apples/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anantadhirya/LeetCode/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anantadhirya/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
