@@ -526,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/Anantadhirya/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Anantadhirya/LeetCode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0877-stone-game](https://github.com/Anantadhirya/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [0913-cat-and-mouse](https://github.com/Anantadhirya/LeetCode/tree/main/0913-cat-and-mouse/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
@@ -694,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0836-rectangle-overlap](https://github.com/Anantadhirya/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Anantadhirya/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0878-nth-magical-number](https://github.com/Anantadhirya/LeetCode/tree/main/0878-nth-magical-number/) | Hard |
+| [0913-cat-and-mouse](https://github.com/Anantadhirya/LeetCode/tree/main/0913-cat-and-mouse/) | Hard |
 | [0932-beautiful-array](https://github.com/Anantadhirya/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Anantadhirya/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0991-broken-calculator](https://github.com/Anantadhirya/LeetCode/tree/main/0991-broken-calculator/) | Medium |
@@ -887,6 +889,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Anantadhirya/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Anantadhirya/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0913-cat-and-mouse](https://github.com/Anantadhirya/LeetCode/tree/main/0913-cat-and-mouse/) | Hard |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Anantadhirya/LeetCode/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anantadhirya/LeetCode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Anantadhirya/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -1236,6 +1239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/Anantadhirya/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/Anantadhirya/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Anantadhirya/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [0913-cat-and-mouse](https://github.com/Anantadhirya/LeetCode/tree/main/0913-cat-and-mouse/) | Hard |
 | [1140-stone-game-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Anantadhirya/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
@@ -1254,6 +1258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0913-cat-and-mouse](https://github.com/Anantadhirya/LeetCode/tree/main/0913-cat-and-mouse/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Anantadhirya/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Radix Sort
 | Problem Name | Difficulty |
@@ -1293,6 +1298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Anantadhirya/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/Anantadhirya/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [0913-cat-and-mouse](https://github.com/Anantadhirya/LeetCode/tree/main/0913-cat-and-mouse/) | Hard |
 | [1140-stone-game-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/Anantadhirya/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
@@ -1301,6 +1307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Anantadhirya/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [0913-cat-and-mouse](https://github.com/Anantadhirya/LeetCode/tree/main/0913-cat-and-mouse/) | Hard |
 | [1140-stone-game-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/Anantadhirya/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
@@ -1484,6 +1491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Anantadhirya/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Anantadhirya/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0913-cat-and-mouse](https://github.com/Anantadhirya/LeetCode/tree/main/0913-cat-and-mouse/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
