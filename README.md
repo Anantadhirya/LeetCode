@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Anantadhirya/LeetCode/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anantadhirya/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Anantadhirya/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anantadhirya/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Anantadhirya/LeetCode/tree/main/2934-minimum-operations-to-maximize-last-elements-in-arrays/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Anantadhirya/LeetCode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anantadhirya/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -634,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anantadhirya/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Anantadhirya/LeetCode/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anantadhirya/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anantadhirya/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Anantadhirya/LeetCode/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anantadhirya/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anantadhirya/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -949,6 +951,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0731-my-calendar-ii/) | Medium |
 | [1622-fancy-sequence](https://github.com/Anantadhirya/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anantadhirya/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anantadhirya/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Anantadhirya/LeetCode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3161-block-placement-queries](https://github.com/Anantadhirya/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -1201,6 +1204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0307-range-sum-query-mutable](https://github.com/Anantadhirya/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Anantadhirya/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anantadhirya/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Anantadhirya/LeetCode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3161-block-placement-queries](https://github.com/Anantadhirya/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 ## Counting Sort
