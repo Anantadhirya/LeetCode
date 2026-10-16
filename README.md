@@ -680,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Anantadhirya/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3790-smallest-all-ones-multiple](https://github.com/Anantadhirya/LeetCode/tree/main/3790-smallest-all-ones-multiple/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -769,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Anantadhirya/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3790-smallest-all-ones-multiple](https://github.com/Anantadhirya/LeetCode/tree/main/3790-smallest-all-ones-multiple/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Anantadhirya/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
