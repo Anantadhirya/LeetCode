@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Anantadhirya/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [4039-sum-of-decoded-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/4039-sum-of-decoded-numbers/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Anantadhirya/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Anantadhirya/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [4039-sum-of-decoded-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/4039-sum-of-decoded-numbers/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -770,6 +772,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3871-count-commas-in-range-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anantadhirya/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [4039-sum-of-decoded-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/4039-sum-of-decoded-numbers/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
