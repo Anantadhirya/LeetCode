@@ -479,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anantadhirya/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Anantadhirya/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Anantadhirya/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Anantadhirya/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anantadhirya/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -515,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anantadhirya/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Anantadhirya/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Anantadhirya/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Anantadhirya/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anantadhirya/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -1181,6 +1183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anantadhirya/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anantadhirya/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Anantadhirya/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Anantadhirya/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Anantadhirya/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
@@ -1240,6 +1243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/Anantadhirya/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/Anantadhirya/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anantadhirya/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Anantadhirya/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Anantadhirya/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Anantadhirya/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0147-insertion-sort-list](https://github.com/Anantadhirya/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
@@ -1504,6 +1508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Anantadhirya/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Anantadhirya/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anantadhirya/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Anantadhirya/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
