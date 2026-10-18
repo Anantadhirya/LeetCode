@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anantadhirya/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Anantadhirya/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anantadhirya/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/Anantadhirya/LeetCode/tree/main/2836-maximize-value-of-function-in-a-ball-passing-game/) | Hard |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Anantadhirya/LeetCode/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anantadhirya/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -899,6 +900,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/Anantadhirya/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Anantadhirya/LeetCode/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anantadhirya/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Anantadhirya/LeetCode/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Anantadhirya/LeetCode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anantadhirya/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -1069,6 +1071,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Anantadhirya/LeetCode/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [2751-robot-collisions](https://github.com/Anantadhirya/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Anantadhirya/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anantadhirya/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anantadhirya/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anantadhirya/LeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Anantadhirya/LeetCode/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
@@ -1132,6 +1135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Anantadhirya/LeetCode/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
 | [2540-minimum-common-value](https://github.com/Anantadhirya/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2592-maximize-greatness-of-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anantadhirya/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Anantadhirya/LeetCode/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anantadhirya/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
