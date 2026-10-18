@@ -731,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Anantadhirya/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anantadhirya/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Anantadhirya/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0223-rectangle-area](https://github.com/Anantadhirya/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0292-nim-game](https://github.com/Anantadhirya/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0396-rotate-function](https://github.com/Anantadhirya/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -1237,6 +1238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0223-rectangle-area](https://github.com/Anantadhirya/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Anantadhirya/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Anantadhirya/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Anantadhirya/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
