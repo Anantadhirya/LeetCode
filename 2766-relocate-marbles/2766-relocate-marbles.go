@@ -1,5 +1,5 @@
 func relocateMarbles(nums []int, moveFrom []int, moveTo []int) []int {
-    s := make(map[int]struct{})
+    s := make(map[int]struct{}, len(nums))
 
     for _, i := range nums {
         s[i] = struct{}{}
@@ -12,7 +12,7 @@ func relocateMarbles(nums []int, moveFrom []int, moveTo []int) []int {
         }
     }
 
-    ans := make([]int, 0, len(nums))
+    ans := make([]int, 0, len(s))
     for i := range s {
         ans = append(ans, i)
     }
