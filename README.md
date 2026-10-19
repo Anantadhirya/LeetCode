@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Anantadhirya/LeetCode/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2073-time-needed-to-buy-tickets](https://github.com/Anantadhirya/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anantadhirya/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anantadhirya/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anantadhirya/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Anantadhirya/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Anantadhirya/LeetCode/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
@@ -898,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anantadhirya/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anantadhirya/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anantadhirya/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anantadhirya/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Anantadhirya/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anantadhirya/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/Anantadhirya/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -1065,6 +1067,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Anantadhirya/LeetCode/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anantadhirya/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anantadhirya/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Anantadhirya/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Anantadhirya/LeetCode/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anantadhirya/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
