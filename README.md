@@ -459,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Anantadhirya/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Anantadhirya/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Anantadhirya/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/Anantadhirya/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
@@ -1292,6 +1293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Anantadhirya/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/Anantadhirya/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0024-swap-nodes-in-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/Anantadhirya/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anantadhirya/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Anantadhirya/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
