@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Anantadhirya/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Anantadhirya/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/Anantadhirya/LeetCode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Anantadhirya/LeetCode/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [2615-sum-of-distances](https://github.com/Anantadhirya/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
@@ -430,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anantadhirya/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anantadhirya/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Anantadhirya/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/Anantadhirya/LeetCode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2663-lexicographically-smallest-beautiful-string](https://github.com/Anantadhirya/LeetCode/tree/main/2663-lexicographically-smallest-beautiful-string/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/Anantadhirya/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Anantadhirya/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -783,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/Anantadhirya/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anantadhirya/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2525-categorize-box-according-to-criteria](https://github.com/Anantadhirya/LeetCode/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/Anantadhirya/LeetCode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Anantadhirya/LeetCode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anantadhirya/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Anantadhirya/LeetCode/tree/main/2947-count-beautiful-substrings-i/) | Medium |
