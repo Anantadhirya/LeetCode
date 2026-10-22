@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3742-maximum-path-score-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3809-best-reachable-tower](https://github.com/Anantadhirya/LeetCode/tree/main/3809-best-reachable-tower/) | Medium |
+| [3814-maximum-capacity-within-budget](https://github.com/Anantadhirya/LeetCode/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Anantadhirya/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3839-number-of-prefix-connected-groups](https://github.com/Anantadhirya/LeetCode/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -951,6 +952,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anantadhirya/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anantadhirya/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3814-maximum-capacity-within-budget](https://github.com/Anantadhirya/LeetCode/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Anantadhirya/LeetCode/tree/main/4057-number-of-intersecting-interval-pairs-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -1133,6 +1135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Anantadhirya/LeetCode/tree/main/3695-maximize-alternating-sum-using-swaps/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anantadhirya/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Anantadhirya/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
+| [3814-maximum-capacity-within-budget](https://github.com/Anantadhirya/LeetCode/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Anantadhirya/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3913-sort-vowels-by-frequency](https://github.com/Anantadhirya/LeetCode/tree/main/3913-sort-vowels-by-frequency/) | Medium |
@@ -1188,6 +1191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anantadhirya/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Anantadhirya/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3814-maximum-capacity-within-budget](https://github.com/Anantadhirya/LeetCode/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
