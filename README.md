@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0720-longest-word-in-dictionary](https://github.com/Anantadhirya/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0731-my-calendar-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Anantadhirya/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0740-delete-and-earn](https://github.com/Anantadhirya/LeetCode/tree/main/0740-delete-and-earn/) | Medium |
 | [0764-largest-plus-sign](https://github.com/Anantadhirya/LeetCode/tree/main/0764-largest-plus-sign/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Anantadhirya/LeetCode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0809-expressive-words](https://github.com/Anantadhirya/LeetCode/tree/main/0809-expressive-words/) | Medium |
@@ -577,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Anantadhirya/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Anantadhirya/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Anantadhirya/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0740-delete-and-earn](https://github.com/Anantadhirya/LeetCode/tree/main/0740-delete-and-earn/) | Medium |
 | [0764-largest-plus-sign](https://github.com/Anantadhirya/LeetCode/tree/main/0764-largest-plus-sign/) | Medium |
 | [0788-rotated-digits](https://github.com/Anantadhirya/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Anantadhirya/LeetCode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
@@ -663,6 +665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Anantadhirya/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0645-set-mismatch](https://github.com/Anantadhirya/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/Anantadhirya/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [0740-delete-and-earn](https://github.com/Anantadhirya/LeetCode/tree/main/0740-delete-and-earn/) | Medium |
 | [0815-bus-routes](https://github.com/Anantadhirya/LeetCode/tree/main/0815-bus-routes/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/Anantadhirya/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Anantadhirya/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
