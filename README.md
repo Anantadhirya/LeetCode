@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3886-sum-of-sortable-integers](https://github.com/Anantadhirya/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Anantadhirya/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anantadhirya/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [4039-sum-of-decoded-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/4039-sum-of-decoded-numbers/) | Medium |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/Anantadhirya/LeetCode/tree/main/4040-minimum-operations-to-form-subset-sum-i/) | Medium |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Anantadhirya/LeetCode/tree/main/4057-number-of-intersecting-interval-pairs-ii/) | Medium |
