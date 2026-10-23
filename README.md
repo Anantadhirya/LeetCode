@@ -744,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Anantadhirya/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0077-combinations](https://github.com/Anantadhirya/LeetCode/tree/main/0077-combinations/) | Medium |
+| [0089-gray-code](https://github.com/Anantadhirya/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Anantadhirya/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0306-additive-number](https://github.com/Anantadhirya/LeetCode/tree/main/0306-additive-number/) | Medium |
@@ -762,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Anantadhirya/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Anantadhirya/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Anantadhirya/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/Anantadhirya/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anantadhirya/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Anantadhirya/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0223-rectangle-area](https://github.com/Anantadhirya/LeetCode/tree/main/0223-rectangle-area/) | Medium |
@@ -901,6 +903,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/Anantadhirya/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0645-set-mismatch](https://github.com/Anantadhirya/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Anantadhirya/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Anantadhirya/LeetCode/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
