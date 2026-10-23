@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anantadhirya/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Anantadhirya/LeetCode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Anantadhirya/LeetCode/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+| [2404-most-frequent-even-element](https://github.com/Anantadhirya/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2451-odd-string-difference](https://github.com/Anantadhirya/LeetCode/tree/main/2451-odd-string-difference/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anantadhirya/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Anantadhirya/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -699,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anantadhirya/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Anantadhirya/LeetCode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/Anantadhirya/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2451-odd-string-difference](https://github.com/Anantadhirya/LeetCode/tree/main/2451-odd-string-difference/) | Easy |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Anantadhirya/LeetCode/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2540-minimum-common-value](https://github.com/Anantadhirya/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -1259,6 +1261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Anantadhirya/LeetCode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Anantadhirya/LeetCode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/Anantadhirya/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Anantadhirya/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Anantadhirya/LeetCode/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
