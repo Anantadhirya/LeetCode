@@ -436,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anantadhirya/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Anantadhirya/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Anantadhirya/LeetCode/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Anantadhirya/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2451-odd-string-difference](https://github.com/Anantadhirya/LeetCode/tree/main/2451-odd-string-difference/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anantadhirya/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anantadhirya/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -806,6 +807,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/Anantadhirya/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anantadhirya/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Anantadhirya/LeetCode/tree/main/2178-maximum-split-of-positive-even-integers/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Anantadhirya/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Anantadhirya/LeetCode/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Anantadhirya/LeetCode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Anantadhirya/LeetCode/tree/main/2745-construct-the-longest-new-string/) | Medium |
