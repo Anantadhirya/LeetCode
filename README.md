@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1191-k-concatenation-maximum-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Anantadhirya/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Anantadhirya/LeetCode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Anantadhirya/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Anantadhirya/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anantadhirya/LeetCode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/Anantadhirya/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0835-image-overlap](https://github.com/Anantadhirya/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Anantadhirya/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Anantadhirya/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Anantadhirya/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1314-matrix-block-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
@@ -539,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-all-paths-from-source-to-target](https://github.com/Anantadhirya/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Anantadhirya/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1145-binary-tree-coloring-game](https://github.com/Anantadhirya/LeetCode/tree/main/1145-binary-tree-coloring-game/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Anantadhirya/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/Anantadhirya/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -981,6 +984,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Anantadhirya/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Anantadhirya/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Anantadhirya/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Anantadhirya/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Anantadhirya/LeetCode/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -1322,6 +1326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/Anantadhirya/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Anantadhirya/LeetCode/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Anantadhirya/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/Anantadhirya/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anantadhirya/LeetCode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1345-jump-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
