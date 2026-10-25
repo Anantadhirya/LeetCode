@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/Anantadhirya/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0436-find-right-interval](https://github.com/Anantadhirya/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Anantadhirya/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/Anantadhirya/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Anantadhirya/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -777,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0223-rectangle-area](https://github.com/Anantadhirya/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0292-nim-game](https://github.com/Anantadhirya/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0396-rotate-function](https://github.com/Anantadhirya/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Anantadhirya/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Anantadhirya/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Anantadhirya/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
