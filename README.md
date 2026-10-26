@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3769-sort-integers-by-binary-reflection](https://github.com/Anantadhirya/LeetCode/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3809-best-reachable-tower](https://github.com/Anantadhirya/LeetCode/tree/main/3809-best-reachable-tower/) | Medium |
 | [3814-maximum-capacity-within-budget](https://github.com/Anantadhirya/LeetCode/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Anantadhirya/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -1174,6 +1175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Anantadhirya/LeetCode/tree/main/3695-maximize-alternating-sum-using-swaps/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anantadhirya/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Anantadhirya/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
+| [3769-sort-integers-by-binary-reflection](https://github.com/Anantadhirya/LeetCode/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3814-maximum-capacity-within-budget](https://github.com/Anantadhirya/LeetCode/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Anantadhirya/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
