@@ -1701,4 +1701,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anantadhirya/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1693-daily-leads-and-partners](https://github.com/Anantadhirya/LeetCode/tree/main/1693-daily-leads-and-partners/) | Easy |
 <!---LeetCode Topics End-->
