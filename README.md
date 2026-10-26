@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Anantadhirya/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/Anantadhirya/LeetCode/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
 | [3618-split-array-by-prime-indices](https://github.com/Anantadhirya/LeetCode/tree/main/3618-split-array-by-prime-indices/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anantadhirya/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Anantadhirya/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Anantadhirya/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anantadhirya/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3548-equal-sum-grid-partition-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Anantadhirya/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Anantadhirya/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anantadhirya/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anantadhirya/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -559,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Anantadhirya/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/Anantadhirya/LeetCode/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anantadhirya/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Anantadhirya/LeetCode/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -1006,6 +1009,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anantadhirya/LeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Anantadhirya/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anantadhirya/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Anantadhirya/LeetCode/tree/main/3695-maximize-alternating-sum-using-swaps/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -1349,6 +1353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3310-remove-methods-from-project](https://github.com/Anantadhirya/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Anantadhirya/LeetCode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Anantadhirya/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anantadhirya/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Anantadhirya/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
