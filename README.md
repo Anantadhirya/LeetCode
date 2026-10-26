@@ -473,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anantadhirya/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Anantadhirya/LeetCode/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Anantadhirya/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3707-equal-score-substrings](https://github.com/Anantadhirya/LeetCode/tree/main/3707-equal-score-substrings/) | Easy |
@@ -744,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anantadhirya/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Anantadhirya/LeetCode/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Anantadhirya/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Anantadhirya/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Anantadhirya/LeetCode/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
@@ -848,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3525-find-x-value-of-array-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Anantadhirya/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anantadhirya/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Anantadhirya/LeetCode/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Anantadhirya/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3618-split-array-by-prime-indices](https://github.com/Anantadhirya/LeetCode/tree/main/3618-split-array-by-prime-indices/) | Medium |
@@ -883,6 +886,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/Anantadhirya/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anantadhirya/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Anantadhirya/LeetCode/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
 | [3618-split-array-by-prime-indices](https://github.com/Anantadhirya/LeetCode/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Anantadhirya/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anantadhirya/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -1172,6 +1176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Anantadhirya/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anantadhirya/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Anantadhirya/LeetCode/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Anantadhirya/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anantadhirya/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
