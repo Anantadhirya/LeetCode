@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Anantadhirya/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anantadhirya/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Anantadhirya/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
+| [3452-sum-of-good-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Anantadhirya/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anantadhirya/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Anantadhirya/LeetCode/tree/main/3478-choose-k-elements-with-maximum-sum/) | Medium |
