@@ -720,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2404-most-frequent-even-element](https://github.com/Anantadhirya/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2451-odd-string-difference](https://github.com/Anantadhirya/LeetCode/tree/main/2451-odd-string-difference/) | Easy |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Anantadhirya/LeetCode/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Anantadhirya/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2540-minimum-common-value](https://github.com/Anantadhirya/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Anantadhirya/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anantadhirya/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -1093,6 +1094,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/Anantadhirya/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/Anantadhirya/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2241-design-an-atm-machine](https://github.com/Anantadhirya/LeetCode/tree/main/2241-design-an-atm-machine/) | Medium |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Anantadhirya/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Anantadhirya/LeetCode/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -1294,6 +1296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Anantadhirya/LeetCode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Anantadhirya/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Anantadhirya/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Anantadhirya/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Anantadhirya/LeetCode/tree/main/2856-minimum-array-length-after-pair-removals/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -1548,6 +1551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0622-design-circular-queue](https://github.com/Anantadhirya/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anantadhirya/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Anantadhirya/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Anantadhirya/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1717,4 +1721,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1693-daily-leads-and-partners](https://github.com/Anantadhirya/LeetCode/tree/main/1693-daily-leads-and-partners/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Anantadhirya/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 <!---LeetCode Topics End-->
