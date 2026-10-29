@@ -839,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anantadhirya/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Anantadhirya/LeetCode/tree/main/2178-maximum-split-of-positive-even-integers/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Anantadhirya/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
+| [2513-minimize-the-maximum-of-two-arrays](https://github.com/Anantadhirya/LeetCode/tree/main/2513-minimize-the-maximum-of-two-arrays/) | Medium |
 | [2525-categorize-box-according-to-criteria](https://github.com/Anantadhirya/LeetCode/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Anantadhirya/LeetCode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/Anantadhirya/LeetCode/tree/main/2745-construct-the-longest-new-string/) | Medium |
@@ -891,6 +892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-largest-component-size-by-common-factor](https://github.com/Anantadhirya/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1492-the-kth-factor-of-n](https://github.com/Anantadhirya/LeetCode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anantadhirya/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2513-minimize-the-maximum-of-two-arrays](https://github.com/Anantadhirya/LeetCode/tree/main/2513-minimize-the-maximum-of-two-arrays/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/Anantadhirya/LeetCode/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/Anantadhirya/LeetCode/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anantadhirya/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -987,6 +989,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anantadhirya/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Anantadhirya/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anantadhirya/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2513-minimize-the-maximum-of-two-arrays](https://github.com/Anantadhirya/LeetCode/tree/main/2513-minimize-the-maximum-of-two-arrays/) | Medium |
 | [2540-minimum-common-value](https://github.com/Anantadhirya/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Anantadhirya/LeetCode/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -1533,10 +1536,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0878-nth-magical-number](https://github.com/Anantadhirya/LeetCode/tree/main/0878-nth-magical-number/) | Hard |
+| [2513-minimize-the-maximum-of-two-arrays](https://github.com/Anantadhirya/LeetCode/tree/main/2513-minimize-the-maximum-of-two-arrays/) | Medium |
 ## Inclusion-Exclusion Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0878-nth-magical-number](https://github.com/Anantadhirya/LeetCode/tree/main/0878-nth-magical-number/) | Hard |
+| [2513-minimize-the-maximum-of-two-arrays](https://github.com/Anantadhirya/LeetCode/tree/main/2513-minimize-the-maximum-of-two-arrays/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
