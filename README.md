@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anantadhirya/LeetCode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1338-reduce-array-size-to-the-half](https://github.com/Anantadhirya/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1340-jump-game-v](https://github.com/Anantadhirya/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anantadhirya/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1345-jump-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anantadhirya/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0991-broken-calculator](https://github.com/Anantadhirya/LeetCode/tree/main/0991-broken-calculator/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anantadhirya/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1338-reduce-array-size-to-the-half](https://github.com/Anantadhirya/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Anantadhirya/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anantadhirya/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -708,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Anantadhirya/LeetCode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anantadhirya/LeetCode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1338-reduce-array-size-to-the-half](https://github.com/Anantadhirya/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1345-jump-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anantadhirya/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anantadhirya/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -1086,6 +1089,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/Anantadhirya/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0912-sort-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/Anantadhirya/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
+| [1338-reduce-array-size-to-the-half](https://github.com/Anantadhirya/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Anantadhirya/LeetCode/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1705-maximum-number-of-eaten-apples](https://github.com/Anantadhirya/LeetCode/tree/main/1705-maximum-number-of-eaten-apples/) | Medium |
@@ -1160,6 +1164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/Anantadhirya/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anantadhirya/LeetCode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1338-reduce-array-size-to-the-half](https://github.com/Anantadhirya/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1340-jump-game-v](https://github.com/Anantadhirya/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anantadhirya/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
