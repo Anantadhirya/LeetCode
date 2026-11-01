@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anantadhirya/LeetCode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Anantadhirya/LeetCode/tree/main/1333-filter-restaurants-by-vegan-friendly-price-and-distance/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Anantadhirya/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1340-jump-game-v](https://github.com/Anantadhirya/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anantadhirya/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -1167,6 +1168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/Anantadhirya/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anantadhirya/LeetCode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Anantadhirya/LeetCode/tree/main/1333-filter-restaurants-by-vegan-friendly-price-and-distance/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Anantadhirya/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1340-jump-game-v](https://github.com/Anantadhirya/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anantadhirya/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
