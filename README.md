@@ -496,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3839-number-of-prefix-connected-groups](https://github.com/Anantadhirya/LeetCode/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Anantadhirya/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Anantadhirya/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3894-traffic-signal-color](https://github.com/Anantadhirya/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
 | [3913-sort-vowels-by-frequency](https://github.com/Anantadhirya/LeetCode/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 | [3926-count-valid-word-occurrences](https://github.com/Anantadhirya/LeetCode/tree/main/3926-count-valid-word-occurrences/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anantadhirya/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -537,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Anantadhirya/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Anantadhirya/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3894-traffic-signal-color](https://github.com/Anantadhirya/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
 | [4039-sum-of-decoded-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/4039-sum-of-decoded-numbers/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -899,6 +901,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3875-construct-uniform-parity-array-i](https://github.com/Anantadhirya/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Anantadhirya/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3894-traffic-signal-color](https://github.com/Anantadhirya/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
 | [4039-sum-of-decoded-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/4039-sum-of-decoded-numbers/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
