@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Anantadhirya/LeetCode/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2073-time-needed-to-buy-tickets](https://github.com/Anantadhirya/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anantadhirya/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2080-range-frequency-queries](https://github.com/Anantadhirya/LeetCode/tree/main/2080-range-frequency-queries/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anantadhirya/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anantadhirya/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Anantadhirya/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -733,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anantadhirya/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Anantadhirya/LeetCode/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2080-range-frequency-queries](https://github.com/Anantadhirya/LeetCode/tree/main/2080-range-frequency-queries/) | Medium |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Anantadhirya/LeetCode/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Anantadhirya/LeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Anantadhirya/LeetCode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
@@ -1004,6 +1006,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anantadhirya/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anantadhirya/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anantadhirya/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2080-range-frequency-queries](https://github.com/Anantadhirya/LeetCode/tree/main/2080-range-frequency-queries/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anantadhirya/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Anantadhirya/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anantadhirya/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -1128,6 +1131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0731-my-calendar-ii/) | Medium |
 | [1622-fancy-sequence](https://github.com/Anantadhirya/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/Anantadhirya/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+| [2080-range-frequency-queries](https://github.com/Anantadhirya/LeetCode/tree/main/2080-range-frequency-queries/) | Medium |
 | [2241-design-an-atm-machine](https://github.com/Anantadhirya/LeetCode/tree/main/2241-design-an-atm-machine/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Anantadhirya/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Anantadhirya/LeetCode/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
@@ -1139,6 +1143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0731-my-calendar-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0731-my-calendar-ii/) | Medium |
 | [1622-fancy-sequence](https://github.com/Anantadhirya/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
+| [2080-range-frequency-queries](https://github.com/Anantadhirya/LeetCode/tree/main/2080-range-frequency-queries/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anantadhirya/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anantadhirya/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anantadhirya/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
