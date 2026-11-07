@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/Anantadhirya/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1872-stone-game-viii](https://github.com/Anantadhirya/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/Anantadhirya/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Anantadhirya/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Anantadhirya/LeetCode/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Anantadhirya/LeetCode/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
@@ -1116,6 +1117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1705-maximum-number-of-eaten-apples](https://github.com/Anantadhirya/LeetCode/tree/main/1705-maximum-number-of-eaten-apples/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/Anantadhirya/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Anantadhirya/LeetCode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anantadhirya/LeetCode/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anantadhirya/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
