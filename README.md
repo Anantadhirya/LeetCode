@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anantadhirya/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Anantadhirya/LeetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anantadhirya/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Anantadhirya/LeetCode/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anantadhirya/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/Anantadhirya/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3404-count-special-subsequences](https://github.com/Anantadhirya/LeetCode/tree/main/3404-count-special-subsequences/) | Medium |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anantadhirya/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Anantadhirya/LeetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anantadhirya/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Anantadhirya/LeetCode/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Anantadhirya/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Anantadhirya/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -878,6 +880,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Anantadhirya/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anantadhirya/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anantadhirya/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Anantadhirya/LeetCode/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anantadhirya/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anantadhirya/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -928,6 +931,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3115-maximum-prime-difference](https://github.com/Anantadhirya/LeetCode/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anantadhirya/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anantadhirya/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Anantadhirya/LeetCode/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anantadhirya/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Anantadhirya/LeetCode/tree/main/3556-sum-of-largest-prime-substrings/) | Medium |
