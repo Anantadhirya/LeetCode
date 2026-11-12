@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Anantadhirya/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anantadhirya/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Anantadhirya/LeetCode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Anantadhirya/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Anantadhirya/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anantadhirya/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0991-broken-calculator](https://github.com/Anantadhirya/LeetCode/tree/main/0991-broken-calculator/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anantadhirya/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anantadhirya/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/Anantadhirya/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Anantadhirya/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anantadhirya/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -862,6 +864,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-largest-component-size-by-common-factor](https://github.com/Anantadhirya/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0991-broken-calculator](https://github.com/Anantadhirya/LeetCode/tree/main/0991-broken-calculator/) | Medium |
 | [1140-stone-game-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anantadhirya/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Anantadhirya/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anantadhirya/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Anantadhirya/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
