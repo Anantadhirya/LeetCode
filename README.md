@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Anantadhirya/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Anantadhirya/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Anantadhirya/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3926-count-valid-word-occurrences](https://github.com/Anantadhirya/LeetCode/tree/main/3926-count-valid-word-occurrences/) | Medium |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3665-twisted-mirror-path-count](https://github.com/Anantadhirya/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anantadhirya/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Anantadhirya/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1109,6 +1111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Anantadhirya/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Anantadhirya/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Anantadhirya/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anantadhirya/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
