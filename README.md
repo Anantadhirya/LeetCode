@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3898-find-the-degree-of-each-vertex](https://github.com/Anantadhirya/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Anantadhirya/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/Anantadhirya/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3926-count-valid-word-occurrences](https://github.com/Anantadhirya/LeetCode/tree/main/3926-count-valid-word-occurrences/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anantadhirya/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [4039-sum-of-decoded-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/4039-sum-of-decoded-numbers/) | Medium |
@@ -561,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3838-weighted-word-mapping](https://github.com/Anantadhirya/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3894-traffic-signal-color](https://github.com/Anantadhirya/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/Anantadhirya/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [4039-sum-of-decoded-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/4039-sum-of-decoded-numbers/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
