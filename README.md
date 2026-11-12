@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2615-sum-of-distances](https://github.com/Anantadhirya/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anantadhirya/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2718-sum-of-matrix-after-queries](https://github.com/Anantadhirya/LeetCode/tree/main/2718-sum-of-matrix-after-queries/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Anantadhirya/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2751-robot-collisions](https://github.com/Anantadhirya/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2766-relocate-marbles](https://github.com/Anantadhirya/LeetCode/tree/main/2766-relocate-marbles/) | Medium |
@@ -765,6 +766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Anantadhirya/LeetCode/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2615-sum-of-distances](https://github.com/Anantadhirya/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anantadhirya/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2718-sum-of-matrix-after-queries](https://github.com/Anantadhirya/LeetCode/tree/main/2718-sum-of-matrix-after-queries/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Anantadhirya/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2766-relocate-marbles](https://github.com/Anantadhirya/LeetCode/tree/main/2766-relocate-marbles/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Anantadhirya/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
