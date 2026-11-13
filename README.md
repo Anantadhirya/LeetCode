@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3404-count-special-subsequences](https://github.com/Anantadhirya/LeetCode/tree/main/3404-count-special-subsequences/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Anantadhirya/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anantadhirya/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Anantadhirya/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Anantadhirya/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 | [3452-sum-of-good-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Anantadhirya/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -717,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2932-maximum-strong-pair-xor-i](https://github.com/Anantadhirya/LeetCode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anantadhirya/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Anantadhirya/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Anantadhirya/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Anantadhirya/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -1195,6 +1197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anantadhirya/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Anantadhirya/LeetCode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3161-block-placement-queries](https://github.com/Anantadhirya/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Anantadhirya/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -1378,6 +1381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Anantadhirya/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Anantadhirya/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Anantadhirya/LeetCode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Anantadhirya/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1580,6 +1584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anantadhirya/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anantadhirya/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Anantadhirya/LeetCode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Anantadhirya/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1653,6 +1658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anantadhirya/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Anantadhirya/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Anantadhirya/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Anantadhirya/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1826,4 +1832,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Anantadhirya/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Anantadhirya/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
