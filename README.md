@@ -484,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Anantadhirya/LeetCode/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anantadhirya/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Anantadhirya/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Anantadhirya/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Anantadhirya/LeetCode/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Anantadhirya/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2451-odd-string-difference](https://github.com/Anantadhirya/LeetCode/tree/main/2451-odd-string-difference/) | Easy |
@@ -555,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2073-time-needed-to-buy-tickets](https://github.com/Anantadhirya/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Anantadhirya/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anantadhirya/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Anantadhirya/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Anantadhirya/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Anantadhirya/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2766-relocate-marbles](https://github.com/Anantadhirya/LeetCode/tree/main/2766-relocate-marbles/) | Medium |
