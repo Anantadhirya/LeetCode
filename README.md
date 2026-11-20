@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3838-weighted-word-mapping](https://github.com/Anantadhirya/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3839-number-of-prefix-connected-groups](https://github.com/Anantadhirya/LeetCode/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Anantadhirya/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+| [3847-find-the-score-difference-in-a-game](https://github.com/Anantadhirya/LeetCode/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3862-find-the-smallest-balanced-index](https://github.com/Anantadhirya/LeetCode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anantadhirya/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -572,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3614-process-string-with-special-operations-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Anantadhirya/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Anantadhirya/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3847-find-the-score-difference-in-a-game](https://github.com/Anantadhirya/LeetCode/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3894-traffic-signal-color](https://github.com/Anantadhirya/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Anantadhirya/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
