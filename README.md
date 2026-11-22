@@ -486,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Anantadhirya/LeetCode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Anantadhirya/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Anantadhirya/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Anantadhirya/LeetCode/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anantadhirya/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Anantadhirya/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
