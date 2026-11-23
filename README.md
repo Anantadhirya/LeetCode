@@ -469,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/Anantadhirya/LeetCode/tree/main/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | Medium |
 | [1496-path-crossing](https://github.com/Anantadhirya/LeetCode/tree/main/1496-path-crossing/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anantadhirya/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Anantadhirya/LeetCode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anantadhirya/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anantadhirya/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anantadhirya/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -680,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Anantadhirya/LeetCode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1563-stone-game-v](https://github.com/Anantadhirya/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anantadhirya/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anantadhirya/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -778,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1496-path-crossing](https://github.com/Anantadhirya/LeetCode/tree/main/1496-path-crossing/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anantadhirya/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Anantadhirya/LeetCode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Anantadhirya/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/Anantadhirya/LeetCode/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anantadhirya/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -999,6 +1002,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1314-matrix-block-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Anantadhirya/LeetCode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Anantadhirya/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Anantadhirya/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anantadhirya/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -1042,6 +1046,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1009-complement-of-base-10-integer](https://github.com/Anantadhirya/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Anantadhirya/LeetCode/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Anantadhirya/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Anantadhirya/LeetCode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/Anantadhirya/LeetCode/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2151-maximum-good-people-based-on-statements](https://github.com/Anantadhirya/LeetCode/tree/main/2151-maximum-good-people-based-on-statements/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anantadhirya/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
