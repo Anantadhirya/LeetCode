@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/Anantadhirya/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anantadhirya/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1345-jump-game-iv](https://github.com/Anantadhirya/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Anantadhirya/LeetCode/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anantadhirya/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anantadhirya/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -897,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anantadhirya/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Anantadhirya/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anantadhirya/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Anantadhirya/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/Anantadhirya/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1492-the-kth-factor-of-n](https://github.com/Anantadhirya/LeetCode/tree/main/1492-the-kth-factor-of-n/) | Medium |
@@ -995,6 +997,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0731-my-calendar-ii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Anantadhirya/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Anantadhirya/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Anantadhirya/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Anantadhirya/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -1203,6 +1206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0307-range-sum-query-mutable](https://github.com/Anantadhirya/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0622-design-circular-queue](https://github.com/Anantadhirya/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Anantadhirya/LeetCode/tree/main/0731-my-calendar-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1622-fancy-sequence](https://github.com/Anantadhirya/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/Anantadhirya/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2080-range-frequency-queries](https://github.com/Anantadhirya/LeetCode/tree/main/2080-range-frequency-queries/) | Medium |
@@ -1861,6 +1865,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Anantadhirya/LeetCode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
