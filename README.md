@@ -316,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3904-smallest-stable-index-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/Anantadhirya/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3926-count-valid-word-occurrences](https://github.com/Anantadhirya/LeetCode/tree/main/3926-count-valid-word-occurrences/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Anantadhirya/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anantadhirya/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [4039-sum-of-decoded-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/4039-sum-of-decoded-numbers/) | Medium |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/Anantadhirya/LeetCode/tree/main/4040-minimum-operations-to-form-subset-sum-i/) | Medium |
@@ -852,6 +853,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3790-smallest-all-ones-multiple](https://github.com/Anantadhirya/LeetCode/tree/main/3790-smallest-all-ones-multiple/) | Medium |
 | [3839-number-of-prefix-connected-groups](https://github.com/Anantadhirya/LeetCode/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3926-count-valid-word-occurrences](https://github.com/Anantadhirya/LeetCode/tree/main/3926-count-valid-word-occurrences/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Anantadhirya/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1115,6 +1117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anantadhirya/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3814-maximum-capacity-within-budget](https://github.com/Anantadhirya/LeetCode/tree/main/3814-maximum-capacity-within-budget/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Anantadhirya/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Anantadhirya/LeetCode/tree/main/4057-number-of-intersecting-interval-pairs-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -1757,12 +1760,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/Anantadhirya/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/Anantadhirya/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Anantadhirya/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/Anantadhirya/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Anantadhirya/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/Anantadhirya/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Anantadhirya/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/Anantadhirya/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1771,6 +1776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Anantadhirya/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/Anantadhirya/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Prime Factorization
 | Problem Name | Difficulty |
 | ------- | ------- |
