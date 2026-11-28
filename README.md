@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3934-smallest-unique-subarray](https://github.com/Anantadhirya/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anantadhirya/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Anantadhirya/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [4039-sum-of-decoded-numbers](https://github.com/Anantadhirya/LeetCode/tree/main/4039-sum-of-decoded-numbers/) | Medium |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/Anantadhirya/LeetCode/tree/main/4040-minimum-operations-to-form-subset-sum-i/) | Medium |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Anantadhirya/LeetCode/tree/main/4057-number-of-intersecting-interval-pairs-ii/) | Medium |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anantadhirya/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Anantadhirya/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Anantadhirya/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1210,6 +1212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Anantadhirya/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Anantadhirya/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anantadhirya/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -1334,6 +1337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anantadhirya/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Anantadhirya/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3913-sort-vowels-by-frequency](https://github.com/Anantadhirya/LeetCode/tree/main/3913-sort-vowels-by-frequency/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Anantadhirya/LeetCode/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Anantadhirya/LeetCode/tree/main/4057-number-of-intersecting-interval-pairs-ii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
